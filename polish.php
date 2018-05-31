@@ -1722,7 +1722,7 @@ $_LANG['directDebitSavings'] = "Oszczędności";
 
 $_LANG['outOfStockProductRemoved'] = "Produkt niedostępny produkt został automatycznie usunięty z koszyka";
 
-$_LANG['subccountpermsquotes'] = "Wyświetl i zaakceptuj wycenay";
+$_LANG['subccountpermsquotes'] = "Wyświetl i zaakceptuj wycenę";
 
 $_LANG['chooselanguage'] = "Wybierz język";
 
@@ -1876,7 +1876,7 @@ $_LANG['cPanel']['billingOverview'] = "Przegląd rachunków";
 
 $_LANG['liveHelp']['chatNow'] = "Czat teraz";
 
-$_LANG['quotes'] = "wycenay";
+$_LANG['quotes'] = "Oferty";
 
 $_LANG['productMustBeActiveForModuleCmds'] = "Produkt musi być aktywny, aby wykonać to działanie";
 $_LANG['domainCannotBeManagedUnlessActive'] = "Ta domena nie jest obecnie aktywna. Domeny nie mogą być zarządzane, chyba że są aktywne.";
