@@ -1476,7 +1476,7 @@ $_LANG['twoipconfigurestep1'] = "Rozpocznij od wyboru nowego żetonu opartego na
 $_LANG['twoipconfigurestep2'] = "Następnie użyj swojej aplikacji, aby zeskanować kod kreskowy poniżej, lub wpisz ręcznie ten tajny klucz:";
 $_LANG['twoipgdmissing'] = "Brak GD w kompilacji PHP na twoim serwerze, więc nie można wygenerować obrazu";
 
-$_LANG['domaincontactdetails']['First Name'] = "First Name";
+$_LANG['domaincontactdetails']['First Name'] = "Imię";
 $_LANG['domaincontactdetails']['Last Name'] = "Nazwisko";
 $_LANG['domaincontactdetails']['Full Name'] = "Pełna nazwa";
 $_LANG['domaincontactdetails']['Contact Name'] = "Nazwa kontaktu";
@@ -2139,7 +2139,7 @@ $_LANG['price']['renewal'] = "Odnowienie";
 $_LANG['price']['selectExtCategory'] = "Wybierz kategorię z góry.";
 $_LANG['price']['noExtensionsDefined'] = "Brak dostępnych rozszerzeń";
 
-$_LANG['navStore'] = "Store";
+$_LANG['navStore'] = "Sklep";
 $_LANG['navBrowseProductsServices'] = "Przeglądaj wszystko";
 
 $_LANG['navWebsiteSecurity'] = "Witryna i bezpieczeństwo";
