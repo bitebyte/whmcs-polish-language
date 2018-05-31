@@ -1164,16 +1164,16 @@ $_LANG['bundlemaxusesreached'] = "Pakiet niedostępny";
 $_LANG['bundlemaxusesreacheddesc'] = "Ta oferta pakietowa osiągnęła maksymalną dozwoloną liczbę zastosowań, więc niestety nie jest już dostępna. Skontaktuj się z nami, jeśli interesują Cię nasze usługi do omówienia.";
 $_LANG['bundlereqsnotmet'] = "Nie są spełnione wymagania dotyczące pakietu";
 $_LANG['bundlewarningpromo'] = "Wybrany pakiet nie może być używany w połączeniu z innymi promocjami lub ofertami";
-$_LANG['bundlewarningproductcycle'] = "Wybrany pakiet wymaga wybrania cyklu rozliczeniowego" %s "dla produktu %s, aby się zakwalifikować";
+$_LANG['bundlewarningproductcycle'] = "Wybrany pakiet wymaga wybrania cyklu rozliczeniowego \"%s\" dla produktu %s, aby się zakwalifikować";
 $_LANG['bundlewarningproductconfopreq'] = "Wybrany pakiet wymaga wybrania '%s' dla '%s', aby się zakwalifikować";
 $_LANG['bundlewarningproductconfopyesnoenable'] = "Wybrany pakiet wymaga włączenia opcji '%s', aby się zakwalifikować";
 $_LANG['bundlewarningproductconfopyesnodisable'] = "Wybrany pakiet wymaga odznaczenia opcji '%s', aby się zakwalifikować";
-$_LANG['bundlewarningproductconfopqtyreq'] = "Wybrany pakiet wymaga wyboru ilości" %s "dla" %s "w celu zakwalifikowania";
-$_LANG['bundlewarningproductaddonreq'] = "Wybrany pakiet wymaga wyboru dodatku" %s "dla produktu %s, aby się zakwalifikować";
+$_LANG['bundlewarningproductconfopqtyreq'] = "Wybrany pakiet wymaga wyboru ilości \"%s\" dla \"%s\" w celu zakwalifikowania";
+$_LANG['bundlewarningproductaddonreq'] = "Wybrany pakiet wymaga wyboru dodatku \"%s\" dla produktu %s, aby się zakwalifikować";
 $_LANG['bundlewarningdomainreq'] = "Wybrany pakiet wymaga rejestracji lub transferu domeny z produktem %s, aby się zakwalifikować";
-$_LANG['bundlewarningdomaintld'] = "Wybrany pakiet wymaga wybrania domeny z rozszerzeniem (s)" %s "dla domeny %s, aby się zakwalifikować";
-$_LANG['bundlewarningdomainregperiod'] = "Wybrany pakiet wymaga wybrania okresu rejestracji" %s "dla domeny %s, aby się zakwalifikować";
-$_LANG['bundlewarningdomainaddon'] = "Wybrany pakiet wymaga wyboru dodatku" %s "dla domeny %s, aby się zakwalifikować";
+$_LANG['bundlewarningdomaintld'] = "Wybrany pakiet wymaga wybrania domeny z rozszerzeniem (s) \"%s\" dla domeny %s, aby się zakwalifikować";
+$_LANG['bundlewarningdomainregperiod'] = "Wybrany pakiet wymaga wybrania okresu rejestracji \"%s\" dla domeny %s, aby się zakwalifikować";
+$_LANG['bundlewarningdomainaddon'] = "Wybrany pakiet wymaga wyboru dodatku \"%s\" dla domeny %s, aby się zakwalifikować";
 
 # New Client Area Template  Lines
 
