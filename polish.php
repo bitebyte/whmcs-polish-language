@@ -353,7 +353,7 @@ $_LANG['domainsautorenewenabled'] = "Włączone";
 $_LANG['domainsautorenewstatus'] = "Aktualny status";
 $_LANG['domainsimplesearch'] = "Proste wyszukiwanie domen";
 $_LANG['domainspricing'] = "Ceny domen";
-$_LANG['domainsregister'] = "Zarejestruj się";
+$_LANG['domainsregister'] = "Zarejestruj";
 $_LANG['domainsrenew'] = "Odnów";
 $_LANG['domainsrenewnow'] = "Odnów teraz";
 $_LANG['domainstatus'] = "Status";
@@ -1197,7 +1197,7 @@ $_LANG['hello'] = "Hello";
 $_LANG['helloname'] = "Witaj, %s!";
 $_LANG['account'] = "Konto";
 $_LANG['login'] = "Zaloguj się";
-$_LANG['register'] = "Register";
+$_LANG['register'] = "Zarejestruj się";
 $_LANG['forgotpw'] = "Nie pamiętasz hasła?";
 $_LANG['editaccountdetails'] = "Edytuj szczegóły konta";
 
