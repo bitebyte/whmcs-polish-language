@@ -2353,7 +2353,7 @@ $_LANG['projectManagement']['activeProjects'] = "Twoje aktywne projekty"; //$_LA
   $_LANG['upgradeService']['recommended'] = "Recommended"; //$_LANG['upgradeService']['recommended'] = "Recommended";
   $_LANG['upgradeService']['select'] = "Wybierz"; //$_LANG['upgradeService']['select'] = "Select";
 
-  $_LANG['feeds']['itemsInBasket'] = "Masz w koszyku przedmioty <b>:count</b>"; //$_LANG['feeds']['itemsInBasket'] = "You have <b>:count</b> items in your basket";￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿퓔ￔ퓔ￔ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+  $_LANG['feeds']['itemsInBasket'] = "Masz w koszyku przedmioty <b>:count</b>"; //$_LANG['feeds']['itemsInBasket'] = "You have <b>:count</b> items in your basket";
 
 
 ////////// End of polish language file.  Do not place any translation strings below this line!
