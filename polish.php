@@ -1020,7 +1020,7 @@ $_LANG['quotenumber'] = "wycena #";
 $_LANG['quotesubject'] = "Temat";
 $_LANG['quotedatecreated'] = "Data utworzenia";
 $_LANG['quotevaliduntil'] = "Ważny do";
-$_LANG['quotestage'] = "Stage";
+$_LANG['quotestage'] = "Stan";
 $_LANG['quoterecipient'] = "Odbiorca";
 $_LANG['quoteqty'] = "Ilość";
 $_LANG['quotedesc'] = "Opis";
@@ -1030,7 +1030,7 @@ $_LANG['quotelinetotal'] = "Suma";
 $_LANG['edestestraft '] = "Szkic";
 $_LANG['quotestagedelivered'] = "Dostarczone";
 $_LANG['quotestageonhold'] = "Zawieszone";
-$_LANG['quotestageaccepted'] = "Accepted";
+$_LANG['quotestageaccepted'] = "Zaakceptowane";
 $_LANG['quotestagelost'] = "Minął";
 $_LANG['quotestagedead'] = "Minął";
 $_LANG['quoteref'] = "Re Wycena #";
@@ -1185,7 +1185,7 @@ $_LANG['navrenewdomains'] = "Odnów Domeny";
 $_LANG['navregisterdomain'] = "Zarejestruj nową domenę";
 $_LANG['navtransferdomain'] = "Przenieś domeny do nas";
 $_LANG['navdomainsearch'] = "Wyszukiwanie domen";
-$_LANG['navbilling'] = "Billing";
+$_LANG['navbilling'] = "Finanse";
 $_LANG['navinvoices'] = "Faktury";
 $_LANG['navsupport'] = "Wsparcie";
 $_LANG['navtickets'] = "Zgłoszenia";
@@ -1193,7 +1193,7 @@ $_LANG['navopenticket'] = "Otwórz zgłoszenie";
 $_LANG['navmanagecc'] = "Zarządzaj kartą kredytową";
 $_LANG['navemailssent'] = "Historia poczty e-mail";
 
-$_LANG['hello'] = "Hello";
+$_LANG['hello'] = "Cześć";
 $_LANG['helloname'] = "Witaj, %s!";
 $_LANG['account'] = "Konto";
 $_LANG['login'] = "Zaloguj się";
@@ -1850,12 +1850,12 @@ $_LANG['cPanel']['usageLastUpdated'] = "Ostatnia aktualizacja";
 
 $_LANG['cPanel']['quickShortcuts'] = "Szybkie skróty";
 $_LANG['cPanel']['emailAccounts'] = "Konta e-mail";
-$_LANG['cPanel']['forwarders'] = "Forwarders";
+$_LANG['cPanel']['forwarders'] = "Przekierowania";
 $_LANG['cPanel']['autoresponders'] = "Autorespondery";
 $_LANG['cPanel']['fileManager'] = "Menedżer plików";
 $_LANG['cPanel']['backup'] = "Kopia zapasowa";
 $_LANG['cPanel']['subdomains'] = "Subdomeny";
-$_LANG['cPanel']['addonDomains'] = "Domeny Addon";
+$_LANG['cPanel']['addonDomains'] = "Dodatki do domen";
 $_LANG['cPanel']['cronJobs'] = "Cron Jobs";
 $_LANG['cPanel']['mysqlDatabases'] = "Bazy danych MySQL";
 $_LANG['cPanel']['phpMyAdmin'] = "phpMyAdmin";
@@ -1874,7 +1874,7 @@ $_LANG['cPanel']['statusSuspendedNotice'] = "Nie możesz dalej używać tego pak
 
 $_LANG['cPanel']['billingOverview'] = "Przegląd rachunków";
 
-$_LANG['liveHelp']['chatNow'] = "Czat teraz";
+$_LANG['liveHelp']['chatNow'] = "Rozpocznij czat";
 
 $_LANG['quotes'] = "Oferty";
 
