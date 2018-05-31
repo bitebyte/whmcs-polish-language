@@ -109,7 +109,7 @@ $_LANG['clientareaaddress2'] = "Adres 2";
 $_LANG['clientareabwlimit'] = "Limit przepustowości";
 $_LANG['clientareabwusage'] = "Wykorzystanie przepustowości";
 $_LANG['clientareacancel'] = "Anuluj zmiany";
-$_LANG['clientareacheckconfirmation'] = "Dziękujemy. Twoje żądanie anulowania zostało wysłane .Jeśli zrobiłeś to omyłkowo, otwórz bilet wsparcia, aby natychmiast nas o tym powiadomić lub Twoje konto może zostać wypowiedziane.";
+$_LANG['clientareacheckconfirmation'] = "Dziękujemy. Twoje żądanie anulowania zostało wysłane. Jeśli zrobiłeś to omyłkowo, otwórz zgłoszenie do działu pomocy, aby natychmiast nas o tym powiadomić lub Twoje konto może zostać wypowiedziane.";
 $_LANG['clientareacancelinvalid'] = "To konto ma już zgłoszoną prośbę o anulowanie, więc nie możesz przesłać innej.";
 $_LANG['clientareacancellationendofbillingperiod'] = "Koniec okresu rozliczeniowego";
 $_LANG['clientareacancellationimmediate'] = "Natychmiastowy";
@@ -130,7 +130,7 @@ $_LANG['clientareacontactsemailsdomain'] = "Wiadomości e-mail domeny - powiadom
 $_LANG['clientareacontactsemailsgeneral'] = "Ogólne wiadomości e-mail - ogólne ogłoszenia i przypomnienia hasła";
 $_LANG['customerareacontactsemailsinvoice'] = "E-maile z fakturami - faktury i przypomnienia o płatnościach";
 $_LANG['clientareacontactsemailsproduct'] = "Wiadomości e-mail o produktach - szczegóły zamówienia, powitalne wiadomości e-mail itp.";
-$_LANG['clientareacontactsemailssupport'] = "Obsługa wiadomości e-mail - Pozwól temu użytkownikowi otwierać bilety na twoim koncie";
+$_LANG['clientareacontactsemailssupport'] = "Obsługa wiadomości e-mail - Pozwól temu użytkownikowi otwierać zgłoszenia na twoim koncie";
 $_LANG['customerareacryry'] = "Kraj";
 $_LANG['clientareacurrentsecurityanswer'] = "Wprowadź aktualną odpowiedź";
 $_LANG['clientareacurrentsecurityquestion'] = "Wybierz swoje aktualne pytanie bezpieczeństwa";
@@ -198,7 +198,7 @@ $_LANG['clientareanavlogout'] = "Wyloguj";
 $_LANG['customerareanavorder'] = "Zamów dodatkowe przedmioty";
 $_LANG['clientareanavsecurityquestions'] = "Zmień pytanie bezpieczeństwa";
 $_LANG['clientareanavservices'] = "Moje usługi";
-$_LANG['customerareanavsupporttickets'] = "Moje bilety na wsparcie";
+$_LANG['customerareanavsupporttickets'] = "Moje zgłoszenia";
 $_LANG['customerareanocontacts'] = "Nie znaleziono kontaktów";
 $_LANG['clientareapassword'] = "Hasło";
 $_LANG['clientareapending'] = "Oczekuje";
@@ -727,11 +727,11 @@ $_LANG['statsdueinvoicesbalance'] = "Równowaga faktur";
 $_LANG['statsnumdomains'] = "Liczba domen";
 $_LANG['statsnumproducts'] = "Liczba produktów / usług";
 $_LANG['statsnumreferredsignups'] = "Liczba poleconych rejestracji";
-$_LANG['statsnumtickets'] = "Liczba biletów na wsparcie";
+$_LANG['statsnumtickets'] = "Liczba zgłoszeń do pomocy technicznej";
 $_LANG['submitticketdescription'] = "Prześlij zgłoszenie problemu";
 $_LANG['supportclickheretocontact'] = "kliknij tutaj, aby się z nami skontaktować";
 $_LANG['supportpresalesquestions'] = "Jeśli masz pytania przedsprzedażne";
-$_LANG['supportticketinvalid'] = "Wystąpił błąd, nie można znaleźć żądanego biletu.";
+$_LANG['supportticketinvalid'] = "Wystąpił błąd, nie można znaleźć żądanego zgłoszenia.";
 $_LANG['supportticketsallowedextensions'] = "Dopuszczalne rozszerzenia plików";
 $_LANG['supportticketschoosedepartment'] = "Wybierz dział";
 $_LANG['supportticketsclient'] = "Klient";
@@ -747,27 +747,27 @@ $_LANG['supportticketserrornoname'] = "Nie wpisałeś swojego imienia";
 $_LANG['supportticketserrornosubject'] = "Nie wpisałeś tematu";
 $_LANG['supportticketsfilenotallowed'] = "Plik, który próbujesz przesłać, jest niedozwolony.";
 $_LANG['supportticketsheader'] = "Jeśli nie możesz znaleźć rozwiązania swoich problemów w naszej bazie wiedzy, możesz przesłać zgłoszenie, wybierając odpowiedni dział poniżej.";
-$_LANG['supportticketsnotfound'] = "Nie znaleziono biletu";
-$_LANG['supportticketsopentickets'] = "Open Support Tickets";
-$_LANG['supportticketspagetitle'] = "Support Tickets";
+$_LANG['supportticketsnotfound'] = "Nie znaleziono zgłoszenia";
+$_LANG['supportticketsopentickets'] = "Otwórz zgłoszenie";
+$_LANG['supportticketspagetitle'] = "Zgłoszenia";
 $_LANG['supportticketsposted'] = "Wysłane";
 $_LANG['supportticketsreply'] = "Odpowiedz";
 $_LANG['supportticketsstaff'] = "Personel";
 $_LANG['supportticketsstatus'] = "Status";
 $_LANG['supportticketsstatusanswered'] = "Odrzucono";
 $_LANG['supportticketsstatusclosed'] = "Zamknięty";
-$_LANG['supportticketsstatuscloseticket'] = "Jeśli rozwiązany, kliknij tutaj, aby zamknąć bilet";
-$_LANG['supportticketsstatuscustomerreply'] = "Customer-Reply";
+$_LANG['supportticketsstatuscloseticket'] = "Jeśli rozwiązany, kliknij tutaj, aby zamknąć zgłoszenie";
+$_LANG['supportticketsstatuscustomerreply'] = "Odpowiedź-klienta";
 $_LANG['supportticketsstatusinprogress'] = "W toku";
 $_LANG['supportticketsstatusonhold'] = "Zawieszone";
 $_LANG['supportticketsstatusopen'] = "Otwórz";
 $_LANG['supportticketssubject'] = "Temat";
-$_LANG['supportticketssubmitticket'] = "Prześlij bilet";
-$_LANG['supportticketssystemdescription'] = "System zgłoszeń serwisowych pozwala nam odpowiedzieć na twoje problemy i zapytania tak szybko, jak to możliwe. Kiedy otrzymamy odpowiedź na bilet pomocniczy, otrzymasz powiadomienie e-mailem.";
+$_LANG['supportticketssubmitticket'] = "Prześlij zgłoszenie";
+$_LANG['supportticketssystemdescription'] = "System zgłoszeń serwisowych pozwala nam odpowiedzieć na twoje problemy i zapytania tak szybko, jak to możliwe. Kiedy otrzymamy odpowiedź na zgłoszenie, otrzymasz powiadomienie e-mailem.";
 $_LANG['supportticketsticketattachments'] = "Załączniki";
-$_LANG['supportticketstartcreated'] = "Utworzony bilet";
-$_LANG['supportticketcreateddesc'] = "Twój bilet został pomyślnie utworzony, na twój adres wysłano wiadomość e-mail z informacją o tym fakcie. Jeśli chcesz teraz zobaczyć ten bilet, możesz to zrobić.";
-$_LANG['supportticketsticketid'] = "Identyfikator biletu";
+$_LANG['supportticketstartcreated'] = "Utworzone zgłoszenie";
+$_LANG['supportticketcreateddesc'] = "Twóje zgłoszenie zostało pomyślnie utworzone, na twój adres wysłano wiadomość e-mail z informacją o tym fakcie. Jeśli chcesz teraz zobaczyć zgłoszenie, możesz to zrobić.";
+$_LANG['supportticketsticketid'] = "Identyfikator zgłoszenia";
 $_LANG['supportticketsticketsubject'] = "Temat";
 $_LANG['supportticketsticketsubmit'] = "Prześlij";
 $_LANG['supportticketsticketurgency'] = "Pilność";
@@ -776,8 +776,8 @@ $_LANG['supportticketsticketurgencylow'] = "Low";
 $_LANG['supportticketsticketurgencymedium'] = "Medium";
 $_LANG['supportticketsuploadfailed'] = "Nie można załadować pliku załącznika";
 $_LANG['supportticketsuploadtoolarge'] = "Przesłany plik był zbyt duży. Spróbuj przesłać mniejszy plik.";
-$_LANG['supportticketsviewticket'] = "Wyświetl bilet";
-$_LANG['supportticketclosedmsg'] = "Ten bilet jest zamknięty. Możesz odpowiedzieć na ten bilet, aby go ponownie otworzyć.";
+$_LANG['supportticketsviewticket'] = "Wyświetl zgłoszenie";
+$_LANG['supportticketclosedmsg'] = "To zgłoszenie jest zamknięte. Możesz odpowiedzieć na nie, aby je ponownie otworzyć.";
 $_LANG['telesignincorrectpin'] = "Niepoprawna szpilka!";
 $_LANG['telesigninitiatephone'] = "Nie możemy zainicjować weryfikacji telefonu pod Twoim numerem. Skontaktuj się z nami.";
 $_LANG['telesigninvalidnumber'] = "Nieprawidłowy numer telefonu";
@@ -879,7 +879,7 @@ $_LANG['subccountpermsmanageproducts'] = "Przeglądaj i modyfikuj hasła produkt
 $_LANG['subaccountpermsdomains'] = "Wyświetl domeny";
 $_LANG['subccountpermsmanagedomains'] = "Zarządzaj ustawieniami domeny";
 $_LANG['subccountpermsinvoices'] = "Faktury oglądania i płacenia";
-$_LANG['subccountpermstickets'] = "Przeglądaj i otwieraj bilety na wsparcie";
+$_LANG['subccountpermstickets'] = "Przeglądaj i otwieraj zgłoszenia";
 $_LANG['subccountpermsaffiliates'] = "Wyświetl i zarządzaj kontem partnerskim";
 $_LANG['subpcountpermsemails'] = "Wyświetl wiadomości e-mail";
 $_LANG['subaccountpermsorders'] = "Umieść nowe zamówienia / uaktualnienia / anulacje";
@@ -1015,7 +1015,7 @@ $_LANG['quotedownload'] = "Pobierz";
 $_LANG['quoteacceptbtn'] = "Zaakceptuj wycenę";
 $_LANG['quotedlpdfbtn'] = "Pobierz PDF";
 $_LANG['quotediscountheading'] = "Rabat (%)";
-$_LANG['noquotes'] = "Obecnie nie ma zapisanych ofert pod twoim kontem. <br /> Aby poprosić o wycenę, proszę otworzyć bilet.";
+$_LANG['noquotes'] = "Obecnie nie ma zapisanych ofert pod twoim kontem. <br /> Aby poprosić o wycenę, proszę zgłoszenie.";
 $_LANG['quotenumber'] = "wycena #";
 $_LANG['quotesubject'] = "Temat";
 $_LANG['quotedatecreated'] = "Data utworzenia";
@@ -1188,8 +1188,8 @@ $_LANG['navdomainsearch'] = "Wyszukiwanie domen";
 $_LANG['navbilling'] = "Billing";
 $_LANG['navinvoices'] = "Faktury";
 $_LANG['navsupport'] = "Wsparcie";
-$_LANG['navtickets'] = "Bilety";
-$_LANG['navopenticket'] = "Otwórz bilet";
+$_LANG['navtickets'] = "Zgłoszenia";
+$_LANG['navopenticket'] = "Otwórz zgłoszenie";
 $_LANG['navmanagecc'] = "Zarządzaj kartą kredytową";
 $_LANG['navemailssent'] = "Historia poczty e-mail";
 
@@ -1245,7 +1245,7 @@ $_LANG['availcreditbal'] = "Dostępne saldo kredytowe";
 $_LANG['availcreditbaldesc'] = "Masz saldo kredytowe w %s, które zostanie automatycznie zastosowane do nowych faktur";
 $_LANG['youhaveoverdueinvoices'] = "Masz %s zaległych faktur (y)";
 $_LANG['overdueinvoicesdesc'] = "Aby uniknąć przerwy w świadczeniu usług, proszę jak najszybciej spłacić zaległe faktury. %S Pay Now & raquo; %s";
-$_LANG['supportticketsnoneopen'] = "Obecnie nie ma biletów open support";
+$_LANG['supportticketsnoneopen'] = "Obecnie nie ma otwartych zgłoszeń";
 $_LANG['invoicesnoneunpaid'] = "Obecnie nie ma nieopłaconych faktur";
 
 $_LANG['registerdisablednotice'] = "Aby się zarejestrować, proszę umieścić <strong><a href=\"cart.php\">zamówienie</a></strong>";
@@ -1296,8 +1296,8 @@ $_LANG['domaincheckerenterdomain'] = "Rozpocznij z nami hosting, wpisując nazw�
 $_LANG['kbquestionsearchere'] = "Masz pytanie? Rozpocznij wyszukiwanie tutaj.";
 $_LANG['contactus'] = "Skontaktuj się z nami";
 
-$_LANG['opennewticket'] = "Otwórz nowy bilet";
-$_LANG['searchtickets'] = "Wprowadź numer biletu lub temat";
+$_LANG['opennewticket'] = "Otwórz nowe zgłoszenie";
+$_LANG['searchtickets'] = "Wprowadź numer zgłoszenia lub temat";
 $_LANG['supportticketity'] = "Priorytet";
 $_LANG['supportticketsubmitted'] = "Przesłane";
 $_LANG['supportticketscontact'] = "Kontakt";
@@ -1401,16 +1401,16 @@ $_LANG['pwresetsuccessdesc'] = "Twoje hasło zostało zresetowane. %S Kliknij tu
 $_LANG['pwresetenternewpw'] = "Wprowadź poniżej swoje nowe hasło.";
 $_LANG['ordererrorsbudomainbanned'] = "Wprowadzony prefiks subdomeny jest niedozwolony - proszę spróbować innego";
 
-$_LANG['ticketfeedbacktitle'] = "Zapytanie zwrotne o bilet";
+$_LANG['ticketfeedbacktitle'] = "Zapytanie zwrotne zgłoszenia";
 
 $_LANG['nosupportdepartments'] = "Nie znaleziono działów wsparcia. Spróbuj ponownie później.";
 
-$_LANG['feedbackclosed'] = "Informacja zwrotna nie może zostać dostarczona, dopóki bilet nie zostanie zamknięty";
-$_LANG['feedbackprovided'] = "Przesłałeś już opinię na temat tego biletu";
+$_LANG['feedbackclosed'] = "Informacja zwrotna nie może zostać dostarczona, dopóki zgłosenie nie zostanie zamknięte";
+$_LANG['feedbackprovided'] = "Przesłałeś już opinię na temat tego zgłoszenia";
 $_LANG['feedbackthankyou'] = "Dziękujemy za poświęcenie czasu na przekazanie nam opinii.";
 $_LANG['feedbackreceived'] = "Otrzymano zgłoszenie";
 $_LANG['feedbackdesc'] = "Proszę, możesz poprosić cię o chwilę poświęcenia czasu na wypełnienie poniższego formularza dotyczącego jakości twojego doświadczenia z naszym zespołem pomocy.";
-$_LANG['feedbackclickreview'] = "Kliknij tutaj, aby przejrzeć bilet";
+$_LANG['feedbackclickreview'] = "Kliknij tutaj, aby przejrzeć zgłoszenie";
 $_LANG['feedbackopenedat'] = "Otwarty w";
 $_LANG['feedbacklastreplied'] = "Ostatnia odpowiedź";
 $_LANG['feedbackstaffinvolved'] = "Personel zaangażowany";
@@ -1559,7 +1559,7 @@ $_LANG['shortcuts'] = "Skróty";
 
 $_LANG['yourservices'] = "Twoje usługi";
 $_LANG['yourdomains'] = "Twoje domeny";
-$_LANG['yourtickets'] = "Twoje bilety";
+$_LANG['yourtickets'] = "Twoje zgłoszenia";
 $_LANG['managecontacts'] = "Zarządzaj kontaktami";
 $_LANG['billingdetails'] = "Szczegóły płatności";
 $_LANG['homechooseproductservice'] = "Wybierz produkt / usługę do zarządzania:";
@@ -1602,7 +1602,7 @@ $_LANG['masspayintro'] = "Zapłać wszystkie te faktury w jednym kroku";
 $_LANG['masspaymentselectgateway'] = "Wybierz opcję Mass Payment Gateway";
 
 $_LANG['ticketfeedbackrequest'] = "Zapytanie zwrotne";
-$_LANG['ticketfeedbackforticket'] = "dla biletu #";
+$_LANG['ticketfeedbackforticket'] = "dla zgłoszenia #";
 
 $_LANG['powiadomienia'] = "Powiadomienia";
 $_LANG['notificationsnone'] = "Nie masz obecnie powiadomień.";
@@ -1660,7 +1660,7 @@ $_LANG['alltldpricing'] = "Wszystkie ceny TLD";
 $_LANG['quotesdesc'] = "Wyceny, które dla ciebie wygenerowaliśmy";
 $_LANG['quotesrejected'] = "Odrzucono";
 
-$_LANG['ticketsyourhistory'] = "Twoja historia biletów";
+$_LANG['ticketsyourhistory'] = "Twoja historia zgłoszeń";
 
 $_LANG['clientareaemaildesc'] = "Twoja historia e-maili z nami";
 
@@ -1681,7 +1681,7 @@ $_LANG['pwresetemailneeded'] = "Nie pamiętasz hasła? Podaj swój adres e-mail 
 
 $_LANG['quotestageexpired'] = "Minął";
 
-$_LANG['ticketinfo'] = "Informacje o biletach";
+$_LANG['ticketinfo'] = "Informacje o zgłoszeniach";
 $_LANG['customfield'] = "Niestandardowe pola";
 
 $_LANG['domainsActive'] = "Aktywny";
@@ -1697,7 +1697,7 @@ $_LANG['kbtagcloud'] = "Chmura znaczników";
 $_LANG['cancellationrequestedexplanation'] = "Występuje wyjątkowe żądanie anulowania tego produktu / usługi";
 $_LANG['cancellationrequested'] = "Żądanie anulowania";
 
-$_LANG['yourrecenttickets'] = "Twoje ostatnie bilety";
+$_LANG['yourrecenttickets'] = "Twoje ostatnie zgłoszenia";
 
 $_LANG['domains']['deTermsDescription1'] = "Aby zarejestrować nową domenę, przesłać lub zmienić dane rejestrującego, rejestrujący musi jednoznacznie zaakceptować warunki .DE.";
 $_LANG['domains']['deTermsDescription2'] = "(Zobacz pełny tekst .de terms and conditions: http://www.denic.de/en/bedingungen.html.)";
@@ -1755,9 +1755,9 @@ $_LANG['clientHomePanels']['activeProductsServices'] = "Twoje aktywne produkty /
 $_LANG['clientHomePanels']['activeProductsServicesNone'] = "Wygląda na to, że nie masz jeszcze żadnych produktów / usług z nami. <a href=\"cart.php\"> Złóż zamówienie, aby rozpocząć </a> . ";
 $_LANG['clientHomePanels']['recentNews'] = "Najnowsze wiadomości";
 $_LANG['clientHomePanels']['affiliateProgram'] = "Program partnerski";
-$_LANG['clientHomePanels']['recentSupportTickets'] = "Ostatnie bilety na wsparcie";
-$_LANG['clientHomePanels']['recentSupportTicketsNone'] = "Nie znaleziono ostatnich biletów. Jeśli potrzebujesz pomocy, <a href=\"submitticket.php\"> otwórz bilet </a>.";
-$_LANG['clientHomePanels']['affiliateSummary'] = "Twoje aktualne saldo prowizji to: prowizjaBalance. Potrzebujesz tylko kolejnej: kwoty do wypłaty, aby móc wypłacić swoje zarobki.";
+$_LANG['clientHomePanels']['recentSupportTickets'] = "Ostatnie zgłoszenia";
+$_LANG['clientHomePanels']['recentSupportTicketsNone'] = "Nie znaleziono ostatnich zgłoszeń. Jeśli potrzebujesz pomocy, <a href=\"submitticket.php\">otwórz zgłoszenie</a>.";
+$_LANG['clientHomePanels']['affiliateSummary'] = "Twoje aktualne saldo prowizji to: prowizjaBalance. Potrzebujesz tylko kolejnej: kwoty do wypłaty, aby móc wypłacić swoje środki.";
 $_LANG['clientHomePanels']['affiliateSummaryWithdrawalReady'] = "Twoje aktualne saldo prowizji to: commissionBalance. Możesz teraz wypłacić swoje zarobki.";
 
 $_LANG['upgradeNotPossible'] = "Aktualizacja tego produktu jest niemożliwa. Jeśli uważasz, że ta strona została błędna, powiadom nasz dział pomocy technicznej. W przeciwnym razie wróć i sprawdź dokładnie swój wybór.";
@@ -1950,7 +1950,7 @@ $_LANG['orderForm']['domainAddedToCart'] = "Ta domena została dodana do twojego
 $_LANG['orderForm']['registerLongerAndSave'] = "Zarejestruj się na dłużej i oszczędzaj!";
 $_LANG['orderForm']['tryRegisteringInstead'] = "Spróbuj zarejestrować domenę zamiast niej.";
 $_LANG['orderForm']['domainAvailabilityCached'] = "Wyniki dostępności domeny są zapisywane w pamięci podręcznej, co może prowadzić do tego, że ostatnio zarejestrowane domeny są wyświetlane jako dostępne.";
-$_LANG['orderForm']['submitTicket'] = "Prześlij bilet";
+$_LANG['orderForm']['submitTicket'] = "Prześlij zgłoszenie";
 $_LANG['orderForm']['promotionAccepted'] = "Akceptowany kod promocyjny! Całkowita suma zamówień została zaktualizowana.";
 $_LANG['orderForm']['productOptions'] = "Produkt / opcje";
 $_LANG['orderForm']['qty'] = "Ilość";
