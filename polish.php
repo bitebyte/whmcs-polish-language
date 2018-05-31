@@ -131,7 +131,7 @@ $_LANG['clientareacontactsemailsgeneral'] = "Ogólne wiadomości e-mail - ogóln
 $_LANG['customerareacontactsemailsinvoice'] = "E-maile z fakturami - faktury i przypomnienia o płatnościach";
 $_LANG['clientareacontactsemailsproduct'] = "Wiadomości e-mail o produktach - szczegóły zamówienia, powitalne wiadomości e-mail itp.";
 $_LANG['clientareacontactsemailssupport'] = "Obsługa wiadomości e-mail - Pozwól temu użytkownikowi otwierać zgłoszenia na twoim koncie";
-$_LANG['customerareacryry'] = "Kraj";
+$_LANG['clientareacountry'] = "Kraj";
 $_LANG['clientareacurrentsecurityanswer'] = "Wprowadź aktualną odpowiedź";
 $_LANG['clientareacurrentsecurityquestion'] = "Wybierz swoje aktualne pytanie bezpieczeństwa";
 $_LANG['clientareadeletecontact'] = "Usuń kontakt";
@@ -199,7 +199,7 @@ $_LANG['customerareanavorder'] = "Zamów dodatkowe przedmioty";
 $_LANG['clientareanavsecurityquestions'] = "Zmień pytanie bezpieczeństwa";
 $_LANG['clientareanavservices'] = "Moje usługi";
 $_LANG['customerareanavsupporttickets'] = "Moje zgłoszenia";
-$_LANG['customerareanocontacts'] = "Nie znaleziono kontaktów";
+$_LANG['clientareanocontacts'] = "Nie znaleziono kontaktów";
 $_LANG['clientareapassword'] = "Hasło";
 $_LANG['clientareapending'] = "Oczekuje";
 $_LANG['clientareapendingtransfer'] = "Oczekuje na transfer";
@@ -1604,7 +1604,7 @@ $_LANG['masspaymentselectgateway'] = "Wybierz opcję Mass Payment Gateway";
 $_LANG['ticketfeedbackrequest'] = "Zapytanie zwrotne";
 $_LANG['ticketfeedbackforticket'] = "dla zgłoszenia #";
 
-$_LANG['powiadomienia'] = "Powiadomienia";
+$_LANG['notifications'] = "Powiadomienia";
 $_LANG['notificationsnone'] = "Nie masz obecnie powiadomień.";
 
 $_LANG['creditcardnonestored'] = "Brak karty w pliku";
