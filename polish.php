@@ -1277,7 +1277,7 @@ $_LANG['domaincurrentlyunlockedexp'] = "Należy włączyć blokadę rejestratora
 $_LANG['searchmultipletlds'] = "Wyszukaj wiele TLD";
 
 $_LANG['networkstatustitle'] = "Status sieci";
-$_LANG['networkstatusnone'] = "Obecnie nie ma %s Network Issues";
+$_LANG['networkstatusnone'] = "Obecnie nie ma %s problemów z siecią";
 $_LANG['serverstatusheadingtext'] = "Poniżej znajduje się przegląd naszych serwerów w czasie rzeczywistym, w którym można sprawdzić, czy nie ma znanych problemów.";
 
 $_LANG['clientareacancelreasonrequired'] = "Musisz podać przyczynę rezygnacji";
