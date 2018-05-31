@@ -1906,7 +1906,7 @@ $_LANG['shoppingCartProductPerYear'] = "<span>: price </span> /: countyr";
 $_LANG['orderForm']['findNewDomain'] = "Znajdź swoją nową nazwę domeny Wprowadź poniżej swoje imię i słowa kluczowe, aby sprawdzić dostępność.";
 $_LANG['orderForm']['transferExistingDomain'] = "Przenieś swoje istniejące nazwy domen do nas i zapisz.";
 $_LANG['orderForm']['www'] = "www.";
-$_LANG['orderForm']['sprawdź'] = "Sprawdź";
+$_LANG['orderForm']['check'] = "Sprawdź";
 $_LANG['orderForm']['returnToClientArea'] = "Wróć do strefy klienta";
 $_LANG['orderForm']['checkout'] = "Zamówienie";
 $_LANG['orderForm']['alreadyRegistered'] = "Jesteś już zarejestrowany?";
@@ -1916,7 +1916,7 @@ $_LANG['orderForm']['correctErrors'] = "Proszę poprawić następujące błędy,
 $_LANG['orderForm']['existingCustomerLogin'] = "Istniejące logowanie klienta";
 $_LANG['orderForm']['emailAddress'] = "Adres e-mail";
 $_LANG['orderForm']['personalInformation'] = "Dane osobowe";
-$_LANG['orderForm']['firstName'] = "First Name";
+$_LANG['orderForm']['firstName'] = "Imię";
 $_LANG['orderForm']['lastName'] = "Nazwisko";
 $_LANG['orderForm']['phoneNumber'] = "Numer telefonu";
 $_LANG['orderForm']['billingAddress'] = "Adres rozliczeniowy";
@@ -1967,13 +1967,13 @@ $_LANG['orderForm']['removeItem'] = "Usuń element";
 $_LANG['orderForm']['yes'] = "Tak";
 $_LANG['orderForm']['cancel'] = "Anuluj";
 $_LANG['orderForm']['zamknij'] = "Zamknij";
-$_LANG['orderForm']['totals'] = "Totals";
+$_LANG['orderForm']['totals'] = "Podsumowanie";
 $_LANG['orderForm']['includedWithPlans'] = "Uwzględniony z każdym planem";
 $_LANG['orderForm']['whatIsIncluded'] = "Co zawiera?";
 $_LANG['orderForm']['errorNoProductGroup'] = "Nie można załadować żadnych grup produktów.";
 $_LANG['orderForm']['errorNoProducts'] = "Grupa produktów nie zawiera żadnych widocznych produktów";
 
-$_LANG['cloudSlider']['feature01Title'] = "Maximum Server Uptime";
+$_LANG['cloudSlider']['feature01Title'] = "Maksymalny uptime serwera";
 $_LANG['cloudSlider']['feature01Description'] = "Czas bezawaryjnej pracy serwera jest krytyczny dla wszystkich firm - traktuj to jako bicie serca hostingu Twojej firmy Serwery plików i baz danych, poczta e-mail i serwery internetowe są nieodzowną częścią większości procesów biznesowych, a przestoje mają bezpośredni negatywny wpływ na produktywność, sprzedaż, zadowolenie pracowników i klientów, dlatego tak ważne jest zapewnienie maksymalnego czasu pracy serwera - chcemy sprawić, aby procesy biznesowe działały prawidłowo, aby klienci byli zadowoleni. ";
 $_LANG['cloudSlider']['feature01DescriptionTwo'] = "Ufając nam swoim potrzebom biznesowym, zapewniamy 99,9% nieprzerwanego czasu pracy na świadczonych przez nas usługach, poza standardowymi usługami, które możemy świadczyć.";
 $_LANG['cloudSlider']['feature02Title'] = "World Wide Data Delivery";
@@ -1992,7 +1992,7 @@ $_LANG['cPanel']['usageStatsBwOverLimit'] = "Przekroczyłeś swój limit przepus
 $_LANG['cPanel']['usageStatsDiskOverLimit'] = "Przekroczono limit miejsca na dysku.";
 $_LANG['insufficstockmessage'] = "Obecnie mamy niewiele zapasów na niektóre przedmioty, ilości wózków zostały odpowiednio dostosowane.";
 
-$_LANG['only'] = "Only";
+$_LANG['only'] = "Tylko";
 $_LANG['startingat'] = "Począwszy od";
 
 $_LANG['yourdomainplaceholder'] = 'przykład';
@@ -2000,7 +2000,7 @@ $_LANG['yourtldplaceholder'] = 'com';
 
 $_LANG['subccountpermsproductsso'] = "Włącz jednokrotne logowanie";
 
-$_LANG['sso']['title'] = "Single Sign-On";
+$_LANG['sso']['title'] = "Pojedyne zalogowanie";
 $_LANG['sso']['summary'] = "Aplikacje innych firm wykorzystują funkcję jednokrotnego logowania, aby zapewnić bezpośredni dostęp do konta rozliczeniowego bez konieczności ponownej autoryzacji.";
 $_LANG['sso']['disablenotice'] = "Możesz wyłączyć tę funkcję, jeśli zapewnisz dostęp do jakichkolwiek aplikacji innych firm użytkownikom, którzy nie chcą mieć dostępu do Twojego konta rozliczeniowego.";
 $_LANG['sso']['enabled'] = "Pojedyncze logowanie jest obecnie dozwolone dla Twojego konta.";
