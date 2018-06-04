@@ -28,17 +28,17 @@ $_LANG['affiliatesamount'] = "Kwota"; //$_LANG['affiliatesamount'] = "Amount";
 $_LANG['affiliatesbalance'] = "Aktualne saldo"; //$_LANG['affiliatesbalance'] = "Current Balance";
 $_LANG['affiliatesbullet1'] = "Odbierz początkową premię na swoim koncie partnerskim"; //$_LANG['affiliatesbullet1'] = "Receive an initial bonus deposit in your affiliate account of";
 $_LANG['affiliatesbullet2'] = "każdej płatności, za którą każdy klient, do którego się odsyłasz, składa się na cały czas trwania konta hostingowego"; //$_LANG['affiliatesbullet2'] = "of every payment each customer you refer to us makes for the entire duration of their hosting account";
-$_LANG['affiliatescommission'] = "Komisja"; //$_LANG['affiliatescommission'] = "Commission";
+$_LANG['affiliatescommission'] = "Prowizja"; //$_LANG['affiliatescommission'] = "Commission";
 $_LANG['affiliatesdescription'] = "Dołącz do naszego programu partnerskiego lub zobacz zarobki"; //$_LANG['affiliatesdescription'] = "Join our affiliate program or view earnings";
 $_LANG['affiliatesdisabled'] = "Obecnie nie oferujemy naszym klientom systemu partnerskiego."; //$_LANG['affiliatesdisabled'] = "We do not currently offer an affiliate system to our clients.";
 $_LANG['affiliatesearn'] = "Zarób"; //$_LANG['affiliatesearn'] = "Earn";
 $_LANG['affiliatesearningstodate'] = "Całkowity dochód do daty"; //$_LANG['affiliatesearningstodate'] = "Total Earnings to Date";
 $_LANG['affiliatesfootertext'] = "Kiedy kierujesz kogoś na naszą stronę internetową z Twoim unikalnym identyfikatorem polecającego, plik cookie jest umieszczany na jego komputerze z tym identyfikatorem, więc jeśli dodadzą zakładkę do strony i wrócą później, nadal otrzymasz prowizję." ; //$_LANG['affiliatesfootertext'] = "When you refer someone to our website with your unique referral ID, a cookie is placed on their computer containing this ID so if they bookmark the site and come back later you will still receive the commission.";
 $_LANG['affiliateshostingpackage'] = "Pakiet hostingowy"; //$_LANG['affiliateshostingpackage'] = "Hosting Package";
-$_LANG['affiliatesintrotext'] = "Aktywuj swoje konto partnerskie dzisiaj:"; //$_LANG['affiliatesintrotext'] = "Activate your affiliate account today to:";
+$_LANG['affiliatesintrotext'] = "Aktywuj dzisiaj swoje konto partnerskie:"; //$_LANG['affiliatesintrotext'] = "Activate your affiliate account today to:";
 $_LANG['affiliateslinktous'] = "Link do nas"; //$_LANG['affiliateslinktous'] = "Link to Us";
 $_LANG['affiliatesnosignups'] = "Nie otrzymałeś żadnych rejestracji"; //$_LANG['affiliatesnosignups'] = "You have currently not received any signups";
-$_LANG['affiliatesrealtime'] = "Te statystyki są aktualizowane w czasie rzeczywistym i aktualizowane"; //$_LANG['affiliatesrealtime'] = "These statistics are in real time and update instantly";
+$_LANG['affiliatesrealtime'] = "Te statystyki są aktualizowane w czasie rzeczywistym"; //$_LANG['affiliatesrealtime'] = "These statistics are in real time and update instantly";
 $_LANG['affiliatesreferallink'] = "Twój unikalny link polecający"; //$_LANG['affiliatesreferallink'] = "Your Unique Referral Link";
 $_LANG['affiliatesreferals'] = "Twoje polecenia"; //$_LANG['affiliatesreferals'] = "Your referrals";
 $_LANG['affiliatesregdate'] = "Data rejestracji"; //$_LANG['affiliatesregdate'] = "Registration Date";
@@ -48,7 +48,7 @@ $_LANG['affiliatesstatus'] = "Status"; //$_LANG['affiliatesstatus'] = "Status";
 $_LANG['affiliatestitle'] = "Partnerzy"; //$_LANG['affiliatestitle'] = "Affiliates";
 $_LANG['affiliatesvisitorsreferred'] = "Liczba odwiedzonych osób poleconych"; //$_LANG['affiliatesvisitorsreferred'] = "Number of Visitors Referred";
 $_LANG['affiliateswithdrawalrequestsupcessful'] = "Twoja prośba o wypłatę została złożona. Wkrótce skontaktujemy się z Tobą."; //$_LANG['affiliateswithdrawalrequestsuccessful'] = "Your request for a withdrawal has been submitted. You will be contacted shortly.";
-$_LANG['affiliateswithdrawn'] = "Całkowita kwota wycofana"; //$_LANG['affiliateswithdrawn'] = "Total Amount Withdrawn";
+$_LANG['affiliateswithdrawn'] = "Suma wycofanej kwoty"; //$_LANG['affiliateswithdrawn'] = "Total Amount Withdrawn";
 $_LANG['all'] = "Wszystko"; //$_LANG['all'] = "All";
 $_LANG['alreadyregistered'] = "Jesteś już zarejestrowany?"; //$_LANG['alreadyregistered'] = "Already Registered?";
 $_LANG['announcementdescription'] = "Zobacz nasze najnowsze wiadomości i ogłoszenia"; //$_LANG['announcementsdescription'] = "View our latest news & announcements";
@@ -57,8 +57,8 @@ $_LANG['publicationsrss'] = "Zobacz kanał RSS"; //$_LANG['announcementsrss'] = 
 $_LANG['announcementstitle'] = "Ogłoszenia"; //$_LANG['announcementstitle'] = "Announcements";
 $_LANG['bannedbanexpires'] = "Zakaz wygasa"; //$_LANG['bannedbanexpires'] = "Ban Expires";
 $_LANG['bannedbanreason'] = "Przyczyna zakazu"; //$_LANG['bannedbanreason'] = "Ban Reason";
-$_LANG['bannedhasbeenbanned'] = "został zbanowany"; //$_LANG['bannedhasbeenbanned'] = "has been banned";
-$_LANG['bannedtitle'] = "IP Banned"; //$_LANG['bannedtitle'] = "IP Banned";
+$_LANG['bannedhasbeenbanned'] = "został zablokowany"; //$_LANG['bannedhasbeenbanned'] = "has been banned";
+$_LANG['bannedtitle'] = "IP Zablokowane"; //$_LANG['bannedtitle'] = "IP Banned";
 $_LANG['bannedyourip'] = "Twoje IP"; //$_LANG['bannedyourip'] = "Your IP";
 $_LANG['cartaddons'] = "Dodatki"; //$_LANG['cartaddons'] = "Addons";
 $_LANG['cartbrowse'] = "Przeglądaj produkty i usługi"; //$_LANG['cartbrowse'] = "Browse Products &amp; Services";
@@ -215,11 +215,11 @@ $_LANG['clientareasecurityconfanswer'] = "Proszę potwierdzić swoją odpowiedź
 $_LANG['clientareasecurityquestion'] = "Wybierz pytanie bezpieczeństwa"; //$_LANG['clientareasecurityquestion'] = "Please choose a security question";
 $_LANG['clientareaselectcountry'] = "Wybierz kraj"; //$_LANG['clientareaselectcountry'] = "Select Country";
 $_LANG['clientareasetlocking'] = "Ustaw blokowanie"; //$_LANG['clientareasetlocking'] = "Set Locking";
-$_LANG['clientareastate'] = "State / Region"; //$_LANG['clientareastate'] = "State/Region";
+$_LANG['clientareastate'] = "Województwo"; //$_LANG['clientareastate'] = "State/Region";
 $_LANG['clientareastatus'] = "Status"; //$_LANG['clientareastatus'] = "Status";
 $_LANG['clientareasuspended'] = "Zawieszony"; //$_LANG['clientareasuspended'] = "Suspended";
 $_LANG['clientareaterminated'] = "Zakończono"; //$_LANG['clientareaterminated'] = "Terminated";
-$_LANG['clientareaticktoenable'] = "Zaznacz aby włączyć"; //$_LANG['clientareaticktoenable'] = "Tick to enable";
+$_LANG['clientareaticktoenable'] = "Zaznacz, aby włączyć"; //$_LANG['clientareaticktoenable'] = "Tick to enable";
 $_LANG['clientareatitle'] = "Obszar klienta"; //$_LANG['clientareatitle'] = "Client Area";
 $_LANG['clientareaunlimited'] = "Unlimited"; //$_LANG['clientareaunlimited'] = "Unlimited";
 $_LANG['clientareaupdatebutton'] = "Aktualizuj"; //$_LANG['clientareaupdatebutton'] = "Update";
@@ -227,7 +227,7 @@ $_LANG['clientareaupdateyourdetails'] = "Zaktualizuj swoje dane"; //$_LANG['clie
 $_LANG['clientareaused'] = "Używany"; //$_LANG['clientareaused'] = "Used";
 $_LANG['clientareaviewaddons'] = "Wyświetl dostępne dodatki"; //$_LANG['clientareaviewaddons'] = "View Available Addons";
 $_LANG['clientareaviewdetails'] = "Wyświetl szczegóły"; //$_LANG['clientareaviewdetails'] = "View Details";
-$_LANG['clientlogin'] = "Login klienta"; //$_LANG['clientlogin'] = "Client Login";
+$_LANG['clientlogin'] = "Logowanie klienta"; //$_LANG['clientlogin'] = "Client Login";
 $_LANG['clientregisterheadertext'] = "Wypełnij poniższe pola, aby zarejestrować nowe konto."; //$_LANG['clientregisterheadertext'] = "Please fill in the fields below to register for a new account.";
 $_LANG['clientregistertle'] = "Zarejestruj się"; //$_LANG['clientregistertitle'] = "Register";
 $_LANG['clientregisterverify'] = "Zweryfikuj rejestrację"; //$_LANG['clientregisterverify'] = "Verify Registration";
@@ -309,7 +309,7 @@ $_LANG['domainidprotection'] = "Ochrona ID"; //$_LANG['domainidprotection'] = "I
 $_LANG['domainintrotext'] = "Wprowadź domenę i tld, których chcesz użyć w polach poniżej i kliknij przycisk Wyszukaj, aby sprawdzić, czy domena jest dostępna do kupienia."; //$_LANG['domainintrotext'] = "Enter the domain and tld you wish to use in the boxes below and click Lookup to see whether the domain is available for purchase.";
 $_LANG['domainlookupbutton'] = "Wyszukiwanie"; //$_LANG['domainlookupbutton'] = "Lookup";
 $_LANG['domainmanagementtools'] = "Narzędzia do zarządzania"; //$_LANG['domainmanagementtools'] = "Management Tools";
-$_LANG['domainminyears'] = "Min. Lata"; //$_LANG['domainminyears'] = "Min. Years";
+$_LANG['domainminyears'] = "Min. ilość lat"; //$_LANG['domainminyears'] = "Min. Years";
 $_LANG['domainmoreinfo'] = "Więcej informacji"; //$_LANG['domainmoreinfo'] = "More Info";
 $_LANG['nazwa_domeny'] = "Nazwa domeny"; //$_LANG['domainname'] = "Domain Name";
 $_LANG['domainnameserver1'] = "Nameserver 1"; //$_LANG['domainnameserver1'] = "Nameserver 1";
@@ -339,7 +339,7 @@ $_LANG['domainregistrarlock'] = "Blokada rejestratora"; //$_LANG['domainregistra
 $_LANG['domainregistrarlockdesc'] = "Włącz blokadę rejestratora (zalecane) Nieautoryzowane przesyłanie zostanie zablokowane, jeśli ustawiono blokadę."; //$_LANG['domainregistrarlockdesc'] = "Enable registrar lock (Recommended). Unauthorized transfer will be prevented if lock is set.";
 $_LANG['domainregistration'] = "Rejestracja domen"; //$_LANG['domainregistration'] = "Domain Registration";
 $_LANG['domainregistryinfo'] = "Informacje o rejestrze domeny"; //$_LANG['domainregistryinfo'] = "Domain Registry Information";
-$_LANG['domainregnotavailable'] = "N / A"; //$_LANG['domainregnotavailable'] = "N/A";
+$_LANG['domainregnotavailable'] = "N/A"; //$_LANG['domainregnotavailable'] = "N/A";
 $_LANG['domainrenew'] = "Odnów domenę"; //$_LANG['domainrenew'] = "Renew Domain";
 $_LANG['domainrenewal'] = "Odnowienie domeny"; //$_LANG['domainrenewal'] = "Domain Renewal";
 $_LANG['domainrenewalprice'] = "Odnowienie"; //$_LANG['domainrenewalprice'] = "Renewal";
@@ -366,7 +366,7 @@ $_LANG['domainunavailable1'] = "Przepraszam!"; //$_LANG['domainunavailable1'] = 
 $_LANG['domainunavailable2'] = "jest już zajęty!"; //$_LANG['domainunavailable2'] = "is already taken!";
 $_LANG['domainreserved'] = "Zarezerwowany"; //$_LANG['domainreserved'] = "Reserved";
 $_LANG['domainreserved1'] = "Domena"; //$_LANG['domainreserved1'] = "Domain";
-$_LANG['domainreserved2'] = "jest dostępny, ale zarezerwowany."; //$_LANG['domainreserved2'] = "is available, but reserved.";
+$_LANG['domainreserved2'] = "jest dostępna, ale zarezerwowana."; //$_LANG['domainreserved2'] = "is available, but reserved.";
 $_LANG['domainviewwhois'] = "zobacz raport Whois"; //$_LANG['domainviewwhois'] = "view whois report";
 $_LANG['opis pobierania'] = "Opis"; //$_LANG['downloaddescription'] = "Description";
 $_LANG['downloadloginrequired'] = "Odmowa dostępu - Musisz być zalogowany, aby pobrać ten plik"; //$_LANG['downloadloginrequired'] = "Access Denied - You must be logged in to download this file";
@@ -391,12 +391,12 @@ $_LANG['flashtutorialsheadertext'] = "Nasze tutoriale Flash pomogą Ci w pełni 
 $_LANG['forwardingtogateway'] = "Proszę poczekać na przekierowanie do bramy, którą wybrałeś do zapłaty ..."; //$_LANG['forwardingtogateway'] = "Please wait while you are redirected to the gateway you chose to make payment...";
 $_LANG['globalsystemname'] = "Strona główna portalu"; //$_LANG['globalsystemname'] = "Portal Home";
 $_LANG['globalyouarehere'] = "Jesteś tutaj"; //$_LANG['globalyouarehere'] = "You are here";
-$_LANG['go'] = "Go"; //$_LANG['go'] = "Go";
+$_LANG['go'] = "Idź"; //$_LANG['go'] = "Go";
 $_LANG['headertext'] = "Witamy w naszym portalu pomocy technicznej."; //$_LANG['headertext'] = "Welcome to our Support Portal.";
 $_LANG['hometitle'] = "Strona główna"; //$_LANG['hometitle'] = "Home";
 $_LANG['imagecheck'] = "Wprowadź kod bezpieczeństwa pokazany na obrazku - jest to wymagane, aby zapobiec automatycznym przesyłkom"; //$_LANG['imagecheck'] = "Please enter the security code shown in the image - this is required to prevent automated submissions";
-$_LANG['invoiceaddcreditamount'] = "Wprowadź kwotę do zastosowania"; //$_LANG['invoiceaddcreditamount'] = "Enter the amount to apply";
-$_LANG['invoiceaddcreditapply'] = "Apply Credit"; //$_LANG['invoiceaddcreditapply'] = "Apply Credit";
+$_LANG['invoiceaddcreditamount'] = "Wprowadź kwotę do załadowania"; //$_LANG['invoiceaddcreditamount'] = "Enter the amount to apply";
+$_LANG['invoiceaddcreditapply'] = "Załaduj środki"; //$_LANG['invoiceaddcreditapply'] = "Apply Credit";
 $_LANG['invoiceaddcreditdesc1'] = "Twoje saldo kredytu jest"; //$_LANG['invoiceaddcreditdesc1'] = "Your credit balance is";
 $_LANG['invoiceaddcreditdesc2'] = "Można to zastosować do faktury, korzystając z poniższego formularza."; //$_LANG['invoiceaddcreditdesc2'] = "This can be applied to the invoice using the form below.";
 $_LANG['invoiceaddcreditoverbalance'] = "Nie można zastosować więcej kredytu niż należne saldo"; //$_LANG['invoiceaddcreditoverbalance'] = "You cannot apply more credit than the balance due";
@@ -407,7 +407,7 @@ $_LANG['invoicerefnum'] = "Numer referencyjny"; //$_LANG['invoicerefnum'] = "Ref
 $_LANG['invoices'] = "Moje faktury"; //$_LANG['invoices'] = "My Invoices";
 $_LANG['invoicesamount'] = "Kwota"; //$_LANG['invoicesamount'] = "Amount";
 $_LANG['invoicesattn'] = "ATTN"; //$_LANG['invoicesattn'] = "ATTN";
-$_LANG['invoicesbacktoclientarea'] = "& laquo; Powrót do strefy klienta"; //$_LANG['invoicesbacktoclientarea'] = "&laquo; Back to Client Area";
+$_LANG['invoicesbacktoclientarea'] = "&laquo; Powrót do strefy klienta"; //$_LANG['invoicesbacktoclientarea'] = "&laquo; Back to Client Area";
 $_LANG['invoicesbalance'] = "Saldo"; //$_LANG['invoicesbalance'] = "Balance";
 $_LANG['invoicesbefore'] = "przed"; //$_LANG['invoicesbefore'] = "before";
 $_LANG['invoicescancelled'] = "Anulowano"; //$_LANG['invoicescancelled'] = "Cancelled";
@@ -459,7 +459,7 @@ $_LANG['knowledgebasenorelated'] = "Brak pokrewnych artykułów"; //$_LANG['know
 $_LANG['knowledgebasepopular'] = "Najpopularniejsze artykuły"; //$_LANG['knowledgebasepopular'] = "Most Popular Articles";
 $_LANG['knowledgebaseprint'] = "Wydrukuj ten artykuł"; //$_LANG['knowledgebaseprint'] = "Print this Article";
 $_LANG['knowledgebaserating'] = "Ocena:"; //$_LANG['knowledgebaserating'] = "Rating:";
-$_LANG['knowledgebaseratingtext'] = "Użytkownicy uznani za użytecznych"; //$_LANG['knowledgebaseratingtext'] = "Users Found This Useful";
+$_LANG['knowledgebaseratingtext'] = "Użytkownicy uznali za użyteczne"; //$_LANG['knowledgebaseratingtext'] = "Users Found This Useful";
 $_LANG['knowledgebaserelated'] = "Powiązane artykuły"; //$_LANG['knowledgebaserelated'] = "Related Articles";
 $_LANG['knowledgebasesearch'] = "Wyszukaj"; //$_LANG['knowledgebasesearch'] = "Search";
 $_LANG['knowledgebasetitle'] = "Baza wiedzy"; //$_LANG['knowledgebasetitle'] = "Knowledgebase";
@@ -467,9 +467,9 @@ $_LANG['knowledgebaseviews'] = "Widoki"; //$_LANG['knowledgebaseviews'] = "Views
 $_LANG['knowledgebasevote'] = "Głosuj"; //$_LANG['knowledgebasevote'] = "Vote";
 $_LANG['knowledgebasevotes'] = "Głosy"; //$_LANG['knowledgebasevotes'] = "Votes";
 $_LANG['knowledgebaseyes'] = "Tak"; //$_LANG['knowledgebaseyes'] = "Yes";
-$_LANG['knowledgebaseArticleRatingThanks'] = "Dziękujemy za ocenę artykułu dla nas"; //$_LANG['knowledgebaseArticleRatingThanks'] = "Thanks for rating the article for us";
+$_LANG['knowledgebaseArticleRatingThanks'] = "Dziękujemy za ocenę artykułu"; //$_LANG['knowledgebaseArticleRatingThanks'] = "Thanks for rating the article for us";
 $_LANG['language'] = "Język"; //$_LANG['language'] = "Language";
-$_LANG['latefee'] = "Late Fee"; //$_LANG['latefee'] = "Late Fee";
+$_LANG['latefee'] = "Opóźniona opłata"; //$_LANG['latefee'] = "Late Fee";
 $_LANG['latefeeadded'] = "Dodano"; //$_LANG['latefeeadded'] = "Added";
 $_LANG['latestannouncements'] = "Ostatnie ogłoszenia"; //$_LANG['latestannouncements'] = "Latest Announcements";
 $_LANG['loginbutton'] = "Zaloguj się"; //$_LANG['loginbutton'] = "Login";
@@ -479,7 +479,7 @@ $_LANG['loginforgotteninstructions'] = "Poproś o reset hasła"; //$_LANG['login
 $_LANG['loginincorrect'] = "Niepoprawne dane logowania. Spróbuj ponownie."; //$_LANG['loginincorrect'] = "Login Details Incorrect. Please try again.";
 $_LANG['loginintrotext'] = "Aby uzyskać dostęp do tej strony, musisz się zalogować. Te dane logowania różnią się od nazwy użytkownika i hasła panelu sterowania witryny."; //$_LANG['loginintrotext'] = "You must login to access this page. These login details differ from your websites control panel username and password.";
 $_LANG['loginpassword'] = "Hasło"; //$_LANG['loginpassword'] = "Password";
-$_LANG['loginrememberme'] = "Remember Me"; //$_LANG['loginrememberme'] = "Remember Me";
+$_LANG['loginrememberme'] = "Zapamiętaj mnie"; //$_LANG['loginrememberme'] = "Remember Me";
 $_LANG['logoutcontinuetext'] = "Kliknij tutaj, aby kontynuować ..."; //$_LANG['logoutcontinuetext'] = "Click here to continue...";
 $_LANG['logoutsupcessful'] = "Zostałeś pomyślnie wylogowany."; //$_LANG['logoutsuccessful'] = "You have been successfully logged out.";
 $_LANG['logouttitle'] = "Wyloguj"; //$_LANG['logouttitle'] = "Logout";
@@ -488,7 +488,7 @@ $_LANG['maxmind_callingnow'] = "Teraz tworzymy automatyczne połączenie z Twoim
 $_LANG['maxmind_countrymismatch'] = "Kraj twojego adresu IP nie pasuje do podanego kraju do faktury, więc nie możemy przyjąć twojego zamówienia"; //$_LANG['maxmind_countrymismatch'] = "The country of your IP address did not match the billing address country you entered so we cannot accept your order";
 $_LANG['maxmind_error'] = "Błąd"; //$_LANG['maxmind_error'] = "Error";
 $_LANG['maxmind_faileddescription'] = "Podany kod był nieprawidłowy. Jeśli uważasz, że to błąd, skontaktuj się z naszym działem wsparcia najszybciej jak to możliwe."; //$_LANG['maxmind_faileddescription'] = "The code you entered was incorrect. If you feel this to be an error, please contact our support department as soon as possible.";
-$_LANG['maxmind_highfraudriskscore'] = "Twoje zamówienie zostało oznaczone jako potencjalnie wysokie ryzyko i dlatego zostało przetrzymane do ręcznej oceny. <br /> <br /> Jeśli uważasz, że otrzymałeś tę wiadomość przez pomyłkę, zaakceptuj nasze przeprosiny i <a href=\"submitticket.php\"> przesłanie zgłoszenia do działu obsługi klienta </a> Dziękujemy. "; //$_LANG['maxmind_highfraudriskscore'] = "Your order has been flagged as potentially high risk and therefore it has been held for manual review.<br /><br />If you feel you have received this message in error, then please accept our apologies and <a href=\"submitticket.php\">submit a support ticket</a> to our Customer Service Team.  Thank you.";
+$_LANG['maxmind_highfraudriskscore'] = "Twoje zamówienie zostało oznaczone jako potencjalnie wysokie ryzyko i dlatego zostało przetrzymane do ręcznej oceny. <br /> <br /> Jeśli uważasz, że otrzymałeś tę wiadomość przez pomyłkę, zaakceptuj nasze przeprosiny i <a href=\"submitticket.php\">przesłanie zgłoszenia do działu obsługi klienta</a> Dziękujemy. "; //$_LANG['maxmind_highfraudriskscore'] = "Your order has been flagged as potentially high risk and therefore it has been held for manual review.<br /><br />If you feel you have received this message in error, then please accept our apologies and <a href=\"submitticket.php\">submit a support ticket</a> to our Customer Service Team.  Thank you.";
 $_LANG['maxmind_highriskcountry'] = "Niestety, nie możemy zaakceptować Twojego zamówienia, ponieważ w twoim kraju było dużo oszukańczej działalności. Jeśli chcesz zorganizować alternatywny sposób płatności, skontaktuj się z nami."; //$_LANG['maxmind_highriskcountry'] = "Unfortunately, we are unable to accept your order as there has been a lot of fraudulent activity from your country. If you want to arrange an alternative means of payment, please contact us.";
 $_LANG['maxmind_incorrectcode'] = "Niepoprawny kod"; //$_LANG['maxmind_incorrectcode'] = "Incorrect Code";
 $_LANG['maxmind_pincode'] = "Kod PIN"; //$_LANG['maxmind_pincode'] = "Pin Code";
@@ -526,7 +526,7 @@ $_LANG['none'] = "None"; //$_LANG['none'] = "None";
 $_LANG['norecordsfound'] = "Nie znaleziono rekordów"; //$_LANG['norecordsfound'] = "No Records Found";
 $_LANG['or'] = "lub"; //$_LANG['or'] = "or";
 $_LANG['orderadditionalrequiredinfo'] = "Dodatkowe wymagane informacje"; //$_LANG['orderadditionalrequiredinfo'] = "Additional Required Information";
-$_LANG['orderaddon'] = "Addon"; //$_LANG['orderaddon'] = "Addon";
+$_LANG['orderaddon'] = "Dodatek"; //$_LANG['orderaddon'] = "Addon";
 $_LANG['orderaddondescription'] = "Poniższe dodatki są dostępne dla tego produktu Wybierz dodatki, które chcesz zamówić poniżej."; //$_LANG['orderaddondescription'] = "The following addons are available for this product. Choose the addons you wish to order below.";
 $_LANG['orderavailable'] = "Dostępny"; //$_LANG['orderavailable'] = "Available";
 $_LANG['orderavailableaddons'] = "Kliknij, aby wyświetlić dostępne dodatki"; //$_LANG['orderavailableaddons'] = "Click to view available addons";
@@ -581,7 +581,7 @@ $_LANG['ordererroruserexists'] = "Użytkownik już istnieje z tym adresem e-mail
 $_LANG['orderexistinguser'] = "Jestem istniejącym klientem i chcę dodać to zamówienie do mojego konta"; //$_LANG['orderexistinguser'] = "I am an existing customer and wish to add this order to my account";
 $_LANG['orderfailed'] = "Zamówienie nie powiodło się"; //$_LANG['orderfailed'] = "Order Failed";
 $_LANG['orderfinalinstructions'] = "Jeśli masz jakiekolwiek pytania dotyczące zamówienia, proszę otworzyć zgłoszenie serwisowe z obszaru klienta i podać numer zamówienia."; //$_LANG['orderfinalinstructions'] = "If you have any questions about your order, please open a support ticket from your client area and quote your order number.";
-$_LANG['orderfree'] = "DARMO!"; //$_LANG['orderfree'] = "FREE!";
+$_LANG['orderfree'] = "ZA DARMO!"; //$_LANG['orderfree'] = "FREE!";
 $_LANG['orderfreedomainappliesto'] = "dotyczy tylko następujących rozszerzeń"; //$_LANG['orderfreedomainappliesto'] = "applies to the following extensions only";
 $_LANG['orderfreedomaindescription'] = "na wybranych warunkach płatności"; //$_LANG['orderfreedomaindescription'] = "on selected payment terms";
 $_LANG['orderfreedomainonly'] = "Darmowa domena"; //$_LANG['orderfreedomainonly'] = "Free Domain";
@@ -644,7 +644,7 @@ $_LANG['ordertosagreement'] = "Przeczytałem i zgadzam się na"; //$_LANG['order
 $_LANG['ordertotalduetoday'] = "Suma płatności na dzisiaj"; //$_LANG['ordertotalduetoday'] = "Total Due Today";
 $_LANG['ordertotalrecurring'] = "Suma miesięczna"; //$_LANG['ordertotalrecurring'] = "Total Recurring";
 $_LANG['ordertransferdomain'] = "Prześlij istniejącą nazwę domeny"; //$_LANG['ordertransferdomain'] = "Transfer an Existing Domain Name";
-$_LANG['ordertransfersecret'] = "Transfer Secret"; //$_LANG['ordertransfersecret'] = "Transfer Secret";
+$_LANG['ordertransfersecret'] = "Hasło do transferu"; //$_LANG['ordertransfersecret'] = "Transfer Secret";
 $_LANG['ordertransfersecretexplanation'] = "Wprowadź tajemnicę transferu domeny, którą można uzyskać od obecnego rejestratora nazwy domeny."; //$_LANG['ordertransfersecretexplanation'] = "Please enter the Domain Transfer Secret which can be obtained from the current Registrar of the Domain Name. ";
 $_LANG['orderusesubdomain'] = "Użyj poddomeny"; //$_LANG['orderusesubdomain'] = "Use Subdomain";
 $_LANG['orderyears'] = "Rok"; //$_LANG['orderyears'] = "Year/s";
@@ -696,7 +696,7 @@ $_LANG['serverstatusnoservers'] = "Obecnie żadne serwery nie są monitorowane";
 $_LANG['serverstatusnotavailable'] = "Niedostępne"; //$_LANG['serverstatusnotavailable'] = "Not Available";
 $_LANG['serverstatusoffline'] = "Offline"; //$_LANG['serverstatusoffline'] = "Offline";
 $_LANG['serverstatusonline'] = "Online"; //$_LANG['serverstatusonline'] = "Online";
-$_LANG['serverstatusphpinfo'] = "Info PHP"; //$_LANG['serverstatusphpinfo'] = "PHP Info";
+$_LANG['serverstatusphpinfo'] = "PHP Info"; //$_LANG['serverstatusphpinfo'] = "PHP Info";
 $_LANG['serverstatusserverload'] = "Załaduj serwer"; //$_LANG['serverstatusserverload'] = "Server Load";
 $_LANG['serverstatustitle'] = "Status serwera"; //$_LANG['serverstatustitle'] = "Server Status";
 $_LANG['serverstatusuptime'] = "Uptime"; //$_LANG['serverstatusuptime'] = "Uptime";
@@ -756,14 +756,14 @@ $_LANG['supportticketsstaff'] = "Personel"; //$_LANG['supportticketsstaff'] = "S
 $_LANG['supportticketsstatus'] = "Status"; //$_LANG['supportticketsstatus'] = "Status";
 $_LANG['supportticketsstatusanswered'] = "Odrzucono"; //$_LANG['supportticketsstatusanswered'] = "Answered";
 $_LANG['supportticketsstatusclosed'] = "Zamknięty"; //$_LANG['supportticketsstatusclosed'] = "Closed";
-$_LANG['supportticketsstatuscloseticket'] = "Jeśli rozwiązany, kliknij tutaj, aby zamknąć zgłoszenie"; //$_LANG['supportticketsstatuscloseticket'] = "If resolved, click here to close the ticket";
+$_LANG['supportticketsstatuscloseticket'] = "Jeśli Twoje zgłoszenie zostało rozwiązane, kliknij tutaj, aby je zamknąć"; //$_LANG['supportticketsstatuscloseticket'] = "If resolved, click here to close the ticket";
 $_LANG['supportticketsstatuscustomerreply'] = "Odpowiedź-klienta"; //$_LANG['supportticketsstatuscustomerreply'] = "Customer-Reply";
 $_LANG['supportticketsstatusinprogress'] = "W toku"; //$_LANG['supportticketsstatusinprogress'] = "In Progress";
 $_LANG['supportticketsstatusonhold'] = "Zawieszone"; //$_LANG['supportticketsstatusonhold'] = "On Hold";
 $_LANG['supportticketsstatusopen'] = "Otwórz"; //$_LANG['supportticketsstatusopen'] = "Open";
 $_LANG['supportticketssubject'] = "Temat"; //$_LANG['supportticketssubject'] = "Subject";
 $_LANG['supportticketssubmitticket'] = "Prześlij zgłoszenie"; //$_LANG['supportticketssubmitticket'] = "Submit Ticket";
-$_LANG['supportticketssystemdescription'] = "System zgłoszeń serwisowych pozwala nam odpowiedzieć na twoje problemy i zapytania tak szybko, jak to możliwe. Kiedy otrzymamy odpowiedź na zgłoszenie, otrzymasz powiadomienie e-mailem."; //$_LANG['supportticketssystemdescription'] = "The support ticket system allows us to respond to your problems and enquiries as quickly as possible. When we make a response to your support ticket, you will be notified via email.";
+$_LANG['supportticketssystemdescription'] = "System zgłoszeń serwisowych pozwala nam odpowiedzieć na twoje problemy i pytania tak szybko, jak to możliwe. Kiedy otrzymamy odpowiedź na zgłoszenie, otrzymasz powiadomienie e-mailem."; //$_LANG['supportticketssystemdescription'] = "The support ticket system allows us to respond to your problems and enquiries as quickly as possible. When we make a response to your support ticket, you will be notified via email.";
 $_LANG['supportticketsticketattachments'] = "Załączniki"; //$_LANG['supportticketsticketattachments'] = "Attachments";
 $_LANG['supportticketstartcreated'] = "Utworzone zgłoszenie"; //$_LANG['supportticketsticketcreated'] = "Ticket Created";
 $_LANG['supportticketcreateddesc'] = "Twóje zgłoszenie zostało pomyślnie utworzone, na twój adres wysłano wiadomość e-mail z informacją o tym fakcie. Jeśli chcesz teraz zobaczyć zgłoszenie, możesz to zrobić."; //$_LANG['supportticketsticketcreateddesc'] = "Your ticket has been successfully created. An email has been sent to your address with the ticket information. If you would like to view this ticket now you can do so.";
@@ -841,7 +841,7 @@ $_LANG['pwresetvalidationsent'] = "Wysłano wiadomość e-mail z potwierdzeniem"
 $_LANG['pwresetvalidationcheckemail'] = "Rozpoczął się proces resetowania hasła. Sprawdź pocztę e-mail, aby dowiedzieć się, co dalej."; //$_LANG['pwresetvalidationcheckemail'] = "The password reset process has now been started. Please check your email for instructions on what to do next.";
 $_LANG['pwresetkeyinvalid'] = "Link do resetowania, którego użyłeś, jest nieprawidłowy. Spróbuj ponownie."; //$_LANG['pwresetkeyinvalid'] = "The reset link you have followed is invalid. Please try again.";
 $_LANG['pwresetkeyexpired'] = "Link resetowania, którego przestrzegałeś, wygasł. Spróbuj ponownie."; //$_LANG['pwresetkeyexpired'] = "The reset link you have followed has expired. Please try again.";
-$_LANG['pwresetvalidationsuccess'] = "Reset hasła powiodło się"; //$_LANG['pwresetvalidationsuccess'] = "Password Reset Successful";
+$_LANG['pwresetvalidationsuccess'] = "Reset hasła powiódł się"; //$_LANG['pwresetvalidationsuccess'] = "Password Reset Successful";
 	//
 $_LANG['overagescharges'] = "Nadwyżka"; //$_LANG['overagescharges'] = "Overage Charge";
 $_LANG['overagestotaldiskusage'] = "Całkowite użycie dysku"; //$_LANG['overagestotaldiskusage'] = "Total Disk Usage";
@@ -1217,9 +1217,9 @@ $_LANG['resultsperpage'] = "Wyniki na stronę"; //$_LANG['resultsperpage'] = "Re
 $_LANG['accessdenied'] = "Odmowa dostępu"; //$_LANG['accessdenied'] = "Access Denied";
 $_LANG['search'] = "Szukaj"; //$_LANG['search'] = "Search";
 $_LANG['cancel'] = "Anuluj"; //$_LANG['cancel'] = "Cancel";
-$_LANG['clientareabacklink'] = "& laquo; Back"; //$_LANG['clientareabacklink'] = "&laquo; Back";
-$_LANG['backtoserviceslist'] = "& laquo; Powrót do listy usług"; //$_LANG['backtoserviceslist'] = "&laquo; Back to Services List";
-$_LANG['backtodomainslist'] = "& laquo; Powrót do listy domen"; //$_LANG['backtodomainslist'] = "&laquo; Back to Domains List";
+$_LANG['clientareabacklink'] = "&laquo; Back"; //$_LANG['clientareabacklink'] = "&laquo; Back";
+$_LANG['backtoserviceslist'] = "&laquo; Powrót do listy usług"; //$_LANG['backtoserviceslist'] = "&laquo; Back to Services List";
+$_LANG['backtodomainslist'] = "&laquo; Powrót do listy domen"; //$_LANG['backtodomainslist'] = "&laquo; Back to Domains List";
 	//
 $_LANG['clientareahomeorder'] = "Odwiedź formularz zamówienia, aby przejrzeć oferowane przez nas produkty i usługi. Obecni klienci mogą również kupić opcjonalne dodatki i dodatki tutaj."; //$_LANG['clientareahomeorder'] = "Visit the Order Form to browse the Products & Services we offer. Existing customers can also purchase optional extras and addons here.";
 $_LANG['clientareahomelogin'] = "Jesteś już zarejestrowany u nas? Jeśli tak, kliknij przycisk poniżej, aby zalogować się do naszego obszaru klienta, skąd możesz zarządzać swoim kontem."; //$_LANG['clientareahomelogin'] = "Already registered with us? If so, click the button below to login to our client area from where you can manage your account.";
@@ -2148,38 +2148,38 @@ $_LANG['projectManagement']['activeProjects'] = "Twoje aktywne projekty"; //$_LA
   $_LANG['navMarketConnectService']['weebly'] = "Kreator stron internetowych"; //$_LANG['navMarketConnectService']['weebly'] = "Website Builder";
   $_LANG['navMarketConnectService']['spamexperts'] = "Usługi e-mail"; //$_LANG['navMarketConnectService']['spamexperts'] = "E-mail Services";
 
-  $_LANG['sklep']['emailServices']['title'] = "Usługi e-mail"; //$_LANG['store']['emailServices']['title'] = "E-mail Services";
-  $_LANG['sklep']['ssl']['title'] = "Certyfikaty SSL"; //$_LANG['store']['ssl']['title'] = "SSL Certificates";
-  $_LANG['sklep']['ssl']['dv']['title'] = "Domain Validated SSL"; //$_LANG['store']['ssl']['dv']['title'] = "Domain Validated SSL";
-  $_LANG['sklep']['ssl']['ov']['title'] = "Certyfikat Validation organizacji"; //$_LANG['store']['ssl']['ov']['title'] = "Organization Validation SSL";
-  $_LANG['sklep']['ssl']['ev']['title'] = "Extended Validation SSL"; //$_LANG['store']['ssl']['ev']['title'] = "Extended Validation SSL";
-  $_LANG['sklep']['ssl']['wildcard']['title'] = "Wildcard SSL"; //$_LANG['store']['ssl']['wildcard']['title'] = "Wildcard SSL";
+  $_LANG['store']['emailServices']['title'] = "Usługi e-mail"; //$_LANG['store']['emailServices']['title'] = "E-mail Services";
+  $_LANG['store']['ssl']['title'] = "Certyfikaty SSL"; //$_LANG['store']['ssl']['title'] = "SSL Certificates";
+  $_LANG['store']['ssl']['dv']['title'] = "Domain Validated SSL"; //$_LANG['store']['ssl']['dv']['title'] = "Domain Validated SSL";
+  $_LANG['store']['ssl']['ov']['title'] = "Certyfikat Validation organizacji"; //$_LANG['store']['ssl']['ov']['title'] = "Organization Validation SSL";
+  $_LANG['store']['ssl']['ev']['title'] = "Extended Validation SSL"; //$_LANG['store']['ssl']['ev']['title'] = "Extended Validation SSL";
+  $_LANG['store']['ssl']['wildcard']['title'] = "Wildcard SSL"; //$_LANG['store']['ssl']['wildcard']['title'] = "Wildcard SSL";
   $_LANG['store']['websiteBuilder']['title'] = "Kreator stron internetowych"; //$_LANG['store']['websiteBuilder']['title'] = "Website Builder";
-  $_LANG['sklep']['configure']['configureProduct'] = "Konfiguruj produkt"; //$_LANG['store']['configure']['configureProduct'] = "Configure Product";
+  $_LANG['store']['configure']['configureProduct'] = "Konfiguruj produkt"; //$_LANG['store']['configure']['configureProduct'] = "Configure Product";
 
-  $_LANG['sklep']['ssl']['dv']['slogan'] = "Zabezpiecz swoją witrynę w ciągu kilku minut!"; //$_LANG['store']['ssl']['dv']['tagline'] = "Secure your website in just a few minutes!";
-  $_LANG['sklep']['ssl']['dv']['descriptionTitle'] = "Co to jest Standard DV SSL?"; //$_LANG['store']['ssl']['dv']['descriptionTitle'] = "What is Standard DV SSL?";
-  $_LANG['sklep']['ssl']['dv']['descriptionContent'] = "<p> Certyfikaty Domain Validation oferują ekonomiczny i szybki sposób wdrożenia SSL na swojej stronie. Certyfikaty Domain Validated potwierdzają, że jesteś właścicielem domena, ale nie wykonuj żadnego dodatkowego sprawdzania poprawności na poziomie organizacji. </p> <p> Certyfikaty sprawdzania domeny są idealne dla osobistych witryn internetowych, blogów i mediów społecznościowych lub witryn, które nie transmitują prywatnych ani poufnych informacji. Aktywowany certyfikat Domain Validated kłódka przeglądarki i umożliwia korzystanie z https, aby zapewnić odwiedzającym Twoją witrynę i klientom poważną ochronę ich prywatności. </p> "; //$_LANG['store']['ssl']['dv']['descriptionContent'] = "<p>Domain Validation certificates offer an economical and quick way to implement SSL to your website. Domain Validated certificates verify you own the domain, but do not perform any additional organization level validation.</p><p>Domain Validated certificates are ideal for personal websites, blogs and social media, or any sites that are not transmitting private and confidential information.  A Domain Validated certificate activates the browser padlock and enables the use of https to assure your website visitors and customers that you take their privacy seriously.</p>";
+  $_LANG['store']['ssl']['dv']['slogan'] = "Zabezpiecz swoją witrynę w ciągu kilku minut!"; //$_LANG['store']['ssl']['dv']['tagline'] = "Secure your website in just a few minutes!";
+  $_LANG['store']['ssl']['dv']['descriptionTitle'] = "Co to jest Standard DV SSL?"; //$_LANG['store']['ssl']['dv']['descriptionTitle'] = "What is Standard DV SSL?";
+  $_LANG['store']['ssl']['dv']['descriptionContent'] = "<p> Certyfikaty Domain Validation oferują ekonomiczny i szybki sposób wdrożenia SSL na swojej stronie. Certyfikaty Domain Validated potwierdzają, że jesteś właścicielem domena, ale nie wykonuj żadnego dodatkowego sprawdzania poprawności na poziomie organizacji. </p> <p> Certyfikaty sprawdzania domeny są idealne dla osobistych witryn internetowych, blogów i mediów społecznościowych lub witryn, które nie transmitują prywatnych ani poufnych informacji. Aktywowany certyfikat Domain Validated kłódka przeglądarki i umożliwia korzystanie z https, aby zapewnić odwiedzającym Twoją witrynę i klientom poważną ochronę ich prywatności. </p> "; //$_LANG['store']['ssl']['dv']['descriptionContent'] = "<p>Domain Validation certificates offer an economical and quick way to implement SSL to your website. Domain Validated certificates verify you own the domain, but do not perform any additional organization level validation.</p><p>Domain Validated certificates are ideal for personal websites, blogs and social media, or any sites that are not transmitting private and confidential information.  A Domain Validated certificate activates the browser padlock and enables the use of https to assure your website visitors and customers that you take their privacy seriously.</p>";
 
-  $_LANG['sklep']['ssl']['ov']['tagline'] = "Wysoki poziom zabezpieczeń SSL pokazuje odwiedzającym stronę Twoją uwierzytelnioną tożsamość"; //$_LANG['store']['ssl']['ov']['tagline'] = "High assurance SSL shows website visitors your authenticated identity";
-  $_LANG['sklep']['ssl']['ov']['descriptionTitle'] = "Co to jest walidacja organizacji SSL?"; //$_LANG['store']['ssl']['ov']['descriptionTitle'] = "What is Organization Validation SSL?";
-  $_LANG['sklep']['ssl']['ov']['descriptionContent'] = "<p> Organizacja Validated SSL Certificates zapewnia natychmiastowe potwierdzenie tożsamości i silną ochronę SSL Twojej witryny i biznesu. </P> < p> OV SSL jest certyfikatem potwierdzonym przez organizację, który zwiększa wiarygodność witryny przez certyfikaty SSL potwierdzone przez domenę, aktywuje kłódkę przeglądarki i protokół HTTPS, pokazuje Twoją tożsamość korporacyjną i zapewnia Twoim klientom, że traktujesz bezpieczeństwo bardzo poważnie. może zweryfikować, czy witryna jest obsługiwana przez legalną firmę i nie jest witryną oszałamiającą. </p> "; //$_LANG['store']['ssl']['ov']['descriptionContent'] = "<p>Organization Validated SSL Certificates provide instant identity confirmation and strong SSL protection for your website and business.</p><p>OV SSL is an organization validated certificate that gives your website a step up in credibility over domain validated SSL Certificates. It activates the browser padlock and https, shows your corporate identity, and assures your customers that you take security very seriously. Site visitors can verify that the website is operated by a legitimate company and is not an imposter site.</p>";
+  $_LANG['store']['ssl']['ov']['tagline'] = "Wysoki poziom zabezpieczeń SSL pokazuje odwiedzającym stronę Twoją uwierzytelnioną tożsamość"; //$_LANG['store']['ssl']['ov']['tagline'] = "High assurance SSL shows website visitors your authenticated identity";
+  $_LANG['store']['ssl']['ov']['descriptionTitle'] = "Co to jest walidacja organizacji SSL?"; //$_LANG['store']['ssl']['ov']['descriptionTitle'] = "What is Organization Validation SSL?";
+  $_LANG['store']['ssl']['ov']['descriptionContent'] = "<p> Organizacja Validated SSL Certificates zapewnia natychmiastowe potwierdzenie tożsamości i silną ochronę SSL Twojej witryny i biznesu. </P> < p> OV SSL jest certyfikatem potwierdzonym przez organizację, który zwiększa wiarygodność witryny przez certyfikaty SSL potwierdzone przez domenę, aktywuje kłódkę przeglądarki i protokół HTTPS, pokazuje Twoją tożsamość korporacyjną i zapewnia Twoim klientom, że traktujesz bezpieczeństwo bardzo poważnie. może zweryfikować, czy witryna jest obsługiwana przez legalną firmę i nie jest witryną oszałamiającą. </p> "; //$_LANG['store']['ssl']['ov']['descriptionContent'] = "<p>Organization Validated SSL Certificates provide instant identity confirmation and strong SSL protection for your website and business.</p><p>OV SSL is an organization validated certificate that gives your website a step up in credibility over domain validated SSL Certificates. It activates the browser padlock and https, shows your corporate identity, and assures your customers that you take security very seriously. Site visitors can verify that the website is operated by a legitimate company and is not an imposter site.</p>";
 
-  $_LANG['sklep']['ssl']['ev']['tagline'] = "Aktywuj zielony pasek adresu dla najwyższego zaufania i konwersji"; //$_LANG['store']['ssl']['ev']['tagline'] = "Activate the green address bar for the highest trust and conversions";
-  $_LANG['sklep']['ssl']['ev']['descriptionTitle'] = "Co to jest Extended Validation SSL?"; //$_LANG['store']['ssl']['ev']['descriptionTitle'] = "What is Extended Validation SSL?";
-  $_LANG['sklep']['ssl']['ev']['descriptionContent'] = "<p> EV SSL to Extended Validation Certificate, najwyższa klasa SSL dostępna dziś i zapewnia większą wiarygodność i zaufanie strona internetowa w porównaniu do certyfikatu SSL z certyfikatem organizacji lub domeny. </p> <p> Rozszerzona walidacja SSL aktywuje zielony pasek adresu i wyświetla nazwę firmy lub organizacji na pasku adresu przeglądarki. Podjęto kroki w celu potwierdzenia odwiedzanej strony, zwiększenia zaufania użytkowników do witryny i jej wiarygodności - dlatego większość dużych firm i organizacji wybiera certyfikaty EV. </p> "; //$_LANG['store']['ssl']['ev']['descriptionContent'] = "<p>EV SSL is an Extended Validation Certificate, the highest class of SSL available today and gives more credibility and trust to your website compared to using an organization or domain validated SSL Certificate.</p><p>Extended Validation SSL activates the green address bar and displays your company or organization name in the browser address bar. These prominent visual security indicators let visitors know that extra steps were taken to confirm the site they're visiting, increasing user trust in your website and its credibility â€“ this is why most large companies and organizations choose EV certificates.</p>";
+  $_LANG['store']['ssl']['ev']['tagline'] = "Aktywuj zielony pasek adresu dla najwyższego zaufania i konwersji"; //$_LANG['store']['ssl']['ev']['tagline'] = "Activate the green address bar for the highest trust and conversions";
+  $_LANG['store']['ssl']['ev']['descriptionTitle'] = "Co to jest Extended Validation SSL?"; //$_LANG['store']['ssl']['ev']['descriptionTitle'] = "What is Extended Validation SSL?";
+  $_LANG['store']['ssl']['ev']['descriptionContent'] = "<p> EV SSL to Extended Validation Certificate, najwyższa klasa SSL dostępna dziś i zapewnia większą wiarygodność i zaufanie strona internetowa w porównaniu do certyfikatu SSL z certyfikatem organizacji lub domeny. </p> <p> Rozszerzona walidacja SSL aktywuje zielony pasek adresu i wyświetla nazwę firmy lub organizacji na pasku adresu przeglądarki. Podjęto kroki w celu potwierdzenia odwiedzanej strony, zwiększenia zaufania użytkowników do witryny i jej wiarygodności - dlatego większość dużych firm i organizacji wybiera certyfikaty EV. </p> "; //$_LANG['store']['ssl']['ev']['descriptionContent'] = "<p>EV SSL is an Extended Validation Certificate, the highest class of SSL available today and gives more credibility and trust to your website compared to using an organization or domain validated SSL Certificate.</p><p>Extended Validation SSL activates the green address bar and displays your company or organization name in the browser address bar. These prominent visual security indicators let visitors know that extra steps were taken to confirm the site they're visiting, increasing user trust in your website and its credibility â€“ this is why most large companies and organizations choose EV certificates.</p>";
 
-  $_LANG['sklep']['ssl']['wildcard']['tagline'] = "Zabezpiecz nielimitowaną liczbę subdomen na jednym certyfikacie."; //$_LANG['store']['ssl']['wildcard']['tagline'] = "Secure unlimited subdomains on a single certificate.";
-  $_LANG['sklep']['ssl']['wildcard']['descriptionTitle'] = "Co to jest certyfikat Wildcard SSL?"; //$_LANG['store']['ssl']['wildcard']['descriptionTitle'] = "What is a Wildcard SSL Certificate?";
-  $_LANG['sklep']['ssl']['wildcard']['descriptionContent'] = "<p> Wildcard SSL pozwala zabezpieczyć nieograniczoną liczbę subdomen na jednym certyfikacie. Jest to świetne rozwiązanie dla każdy, kto hostuje wiele stron lub stron, które istnieją w tej samej domenie lub zarządza nimi. Jednorazowy koszt certyfikatu obejmuje dodatkowe subdomeny, które możesz dodać w przyszłości. </p> <p> W przeciwieństwie do standardowego certyfikatu SSL, który jest wydawane do pojedynczej w pełni kwalifikowanej nazwy domeny, np. www.twojadomena.com, co oznacza, że ​​można jej używać tylko do zabezpieczania dokładnej domeny, do której zostało wydane, certyfikat wieloznaczny SSL jest wystawiany na * .twojadomena.com, gdzie gwiazdka reprezentuje wszystkie możliwe poddomeny. </p> <p> Wildcard SSL to opcja dostępna dla certyfikatów SSL i OV SSL. </p> "; //$_LANG['store']['ssl']['wildcard']['descriptionContent'] = "<p>Wildcard SSL allows you to secure an unlimited number of subdomains on a single certificate. Itâ€™s a great solution for anyone who hosts or manages multiple sites or pages that exist on the same domain. The one-time cost of the certificate covers you for additional subdomains you may add in the future.</p><p>Unlike a standard SSL Certificate that is issued to a single Fully Qualified Domain Name only, e.g. www.yourdomain.com, which means it can only be used to secure the exact domain to which it has been issued, a Wildcard SSL Certificate is issued to *.yourdomain.com, where the asterisk represents all possible subdomains.</p><p>Wildcard SSL is an option available for DV and OV SSL Certificates.</p>";
+  $_LANG['store']['ssl']['wildcard']['tagline'] = "Zabezpiecz nielimitowaną liczbę subdomen na jednym certyfikacie."; //$_LANG['store']['ssl']['wildcard']['tagline'] = "Secure unlimited subdomains on a single certificate.";
+  $_LANG['store']['ssl']['wildcard']['descriptionTitle'] = "Co to jest certyfikat Wildcard SSL?"; //$_LANG['store']['ssl']['wildcard']['descriptionTitle'] = "What is a Wildcard SSL Certificate?";
+  $_LANG['store']['ssl']['wildcard']['descriptionContent'] = "<p> Wildcard SSL pozwala zabezpieczyć nieograniczoną liczbę subdomen na jednym certyfikacie. Jest to świetne rozwiązanie dla każdy, kto hostuje wiele stron lub stron, które istnieją w tej samej domenie lub zarządza nimi. Jednorazowy koszt certyfikatu obejmuje dodatkowe subdomeny, które możesz dodać w przyszłości. </p> <p> W przeciwieństwie do standardowego certyfikatu SSL, który jest wydawane do pojedynczej w pełni kwalifikowanej nazwy domeny, np. www.twojadomena.com, co oznacza, że ​​można jej używać tylko do zabezpieczania dokładnej domeny, do której zostało wydane, certyfikat wieloznaczny SSL jest wystawiany na * .twojadomena.com, gdzie gwiazdka reprezentuje wszystkie możliwe poddomeny. </p> <p> Wildcard SSL to opcja dostępna dla certyfikatów SSL i OV SSL. </p> "; //$_LANG['store']['ssl']['wildcard']['descriptionContent'] = "<p>Wildcard SSL allows you to secure an unlimited number of subdomains on a single certificate. Itâ€™s a great solution for anyone who hosts or manages multiple sites or pages that exist on the same domain. The one-time cost of the certificate covers you for additional subdomains you may add in the future.</p><p>Unlike a standard SSL Certificate that is issued to a single Fully Qualified Domain Name only, e.g. www.yourdomain.com, which means it can only be used to secure the exact domain to which it has been issued, a Wildcard SSL Certificate is issued to *.yourdomain.com, where the asterisk represents all possible subdomains.</p><p>Wildcard SSL is an option available for DV and OV SSL Certificates.</p>";
 
-  $_LANG['sklep']['websiteBuilder']['headline'] = "Tworzenie witryny nigdy nie było łatwiejsze"; //$_LANG['store']['websiteBuilder']['headline'] = "Building a Website Has Never Been Easier";
-  $_LANG['sklep']['websiteBuilder']['tagline'] = "Stwórz idealną stronę dzięki potężnym narzędziom \"przeciągnij i upuść\""; //$_LANG['store']['websiteBuilder']['tagline'] = "Create the perfect site with powerful drag and drop tools";
-  $_LANG['sklep']['websiteBuilder']['introduction'] = "Kreator stron internetowych \" przeciągnij i upuść\"ułatwia tworzenie wydajnej, profesjonalnej strony internetowej bez żadnych umiejętności technicznych Ponad 40 milionów przedsiębiorców i małych firm już korzystali z Weebly do budowania swojej obecności w Internecie za pomocą strony internetowej, bloga lub sklepu. "; //$_LANG['store']['websiteBuilder']['introduction'] = "Weeblyâ€™s drag and drop website builder makes it easy to create a powerful, professional website without any technical skills. Over 40 million entrepreneurs and small businesses have already used Weebly to build their online presence with a website, blog or store.";
+  $_LANG['store']['websiteBuilder']['headline'] = "Tworzenie witryny nigdy nie było łatwiejsze"; //$_LANG['store']['websiteBuilder']['headline'] = "Building a Website Has Never Been Easier";
+  $_LANG['store']['websiteBuilder']['tagline'] = "Stwórz idealną stronę dzięki potężnym narzędziom \"przeciągnij i upuść\""; //$_LANG['store']['websiteBuilder']['tagline'] = "Create the perfect site with powerful drag and drop tools";
+  $_LANG['store']['websiteBuilder']['introduction'] = "Kreator stron internetowych \" przeciągnij i upuść\"ułatwia tworzenie wydajnej, profesjonalnej strony internetowej bez żadnych umiejętności technicznych Ponad 40 milionów przedsiębiorców i małych firm już korzystali z Weebly do budowania swojej obecności w Internecie za pomocą strony internetowej, bloga lub sklepu. "; //$_LANG['store']['websiteBuilder']['introduction'] = "Weeblyâ€™s drag and drop website builder makes it easy to create a powerful, professional website without any technical skills. Over 40 million entrepreneurs and small businesses have already used Weebly to build their online presence with a website, blog or store.";
 
-  $_LANG['sklep']['emailServices']['headline'] = "Email Security, zbudowany dla Ciebie"; //$_LANG['store']['emailServices']['headline'] = "Email Security, Built for You";
-  $_LANG['sklep']['emailServices']['tagline'] = "Odzyskaj kontrolę nad swoją skrzynką odbiorczą"; //$_LANG['store']['emailServices']['tagline'] = "Take back control of your inbox";
-  $_LANG['sklep']['emailServices']['blockSpamHeadline'] = "Zablokuj prawie 100% wirusów, złośliwego oprogramowania i spamu zanim dotrą one do twojej skrzynki odbiorczej"; //$_LANG['store']['emailServices']['blockSpamHeadline'] = "Block nearly 100% of viruses, malware and spam before they ever reach your inbox";
+  $_LANG['store']['emailServices']['headline'] = "Email Security, zbudowany dla Ciebie"; //$_LANG['store']['emailServices']['headline'] = "Email Security, Built for You";
+  $_LANG['store']['emailServices']['tagline'] = "Odzyskaj kontrolę nad swoją skrzynką odbiorczą"; //$_LANG['store']['emailServices']['tagline'] = "Take back control of your inbox";
+  $_LANG['store']['emailServices']['blockSpamHeadline'] = "Zablokuj prawie 100% wirusów, złośliwego oprogramowania i spamu zanim dotrą one do twojej skrzynki odbiorczej"; //$_LANG['store']['emailServices']['blockSpamHeadline'] = "Block nearly 100% of viruses, malware and spam before they ever reach your inbox";
 
   $_LANG['navManageSsl'] = "Zarządzaj certyfikatami SSL"; //$_LANG['navManageSsl'] = "Manage SSL Certificates";
 
@@ -2328,10 +2328,10 @@ $_LANG['projectManagement']['activeProjects'] = "Twoje aktywne projekty"; //$_LA
   $_LANG['domainRenewal']['maximumAdvanceRenewal'] = "Maksymalne odnowienie z góry to: dni Dzień (dni)"; //$_LANG['domainRenewal']['maximumAdvanceRenewal'] = "Maximum Advance Renewal is :days Day(s)";
 
   $_LANG['navMarketConnectService']['sitelock'] = "Bezpieczeństwo witryny"; //$_LANG['navMarketConnectService']['sitelock'] = "Website Security";
-  $_LANG['sklep']['sitelock']['title'] = "SiteLock Website Security"; //$_LANG['store']['sitelock']['title'] = "SiteLock Website Security";
-  $_LANG['sklep']['sitelock']['tagline'] = "Automatycznie skanuj swoją stronę w poszukiwaniu złośliwego oprogramowania i ochrony reputacji online"; //$_LANG['store']['sitelock']['tagline'] = "Automatically scan your website for malware and protect online reputation";
-  $_LANG['sklep']['sitelock']['manageService'] = "Zarządzaj swoją usługą SiteLock"; //$_LANG['store']['sitelock']['manageService'] = "Manage your SiteLock Service";
-  $_LANG['sklep']['sitelock']['cartShortDescription'] = "SiteLock oferuje szereg funkcji zaprojektowanych w celu ochrony twojej witryny i reputacji twojej firmy."; //$_LANG['store']['sitelock']['cartShortDescription'] = "SiteLock provides a range of features designed to protect both your website and your businessâ€™ reputation.";
+  $_LANG['store']['sitelock']['title'] = "SiteLock Website Security"; //$_LANG['store']['sitelock']['title'] = "SiteLock Website Security";
+  $_LANG['store']['sitelock']['tagline'] = "Automatycznie skanuj swoją stronę w poszukiwaniu złośliwego oprogramowania i ochrony reputacji online"; //$_LANG['store']['sitelock']['tagline'] = "Automatically scan your website for malware and protect online reputation";
+  $_LANG['store']['sitelock']['manageService'] = "Zarządzaj swoją usługą SiteLock"; //$_LANG['store']['sitelock']['manageService'] = "Manage your SiteLock Service";
+  $_LANG['store']['sitelock']['cartShortDescription'] = "SiteLock oferuje szereg funkcji zaprojektowanych w celu ochrony twojej witryny i reputacji twojej firmy."; //$_LANG['store']['sitelock']['cartShortDescription'] = "SiteLock provides a range of features designed to protect both your website and your businessâ€™ reputation.";
 
   $_LANG['learnmore'] = "Dowiedz się więcej"; //$_LANG['learnmore'] = "Learn more";
   $_LANG['category'] = "Kategoria"; //$_LANG['category'] = "Category";
